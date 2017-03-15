@@ -3,6 +3,6 @@
 ## Páginas de equipo
 
 <table>
-<tr> <td>Nombre estudiante</td> <td>Equipo</td><td> Página de equpo </td></tr>
+<tr> <td> Juan Antonio Pérez Clemente </td> <td>Iluminatis</td><td> http://iluminatishmis.github.io </td></tr>
 <tr> <td>...</td> <td>...</td> <td>...</td> </tr>
 </table>
