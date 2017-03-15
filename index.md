@@ -3,6 +3,6 @@
 ## Páginas de equipo
 
 <table>
-<tr> <td>Nombre estudiante</td> <td>Equipo</td><td> Página de equipo </td></tr>
-<tr> <td>Antonio Bordes</td> <td>Team Burton</td> <td>https://jalbladewing.github.io/TeamBurton/</td> </tr>
+<tr> <td>Nombre estudiante</td> <td>Equipo</td><td> Página de equpo </td></tr>
+<tr> <td>Mohamed Hnina</td> <td>githeroes</td> <td>https://mohahnina.github.io/githeroes.github.io/</td> </tr>
 </table>
