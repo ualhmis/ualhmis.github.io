@@ -13,8 +13,8 @@
 <tr> <td>7</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 <tr> <td>8</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 <tr> <td>9</td> <td>... </td> <td>... </td> <td>...</td> </tr>
-<tr> <td>10</td> <td>... </td> <td>... </td> <td>...</td> </tr>
-<tr> <td>11</td> <td>... </td> <td>... </td> <td>...</td> </tr>
+<tr> <td>10</td> <td>Alejandro Urdiales Manzanaro</td> <td>HMIS96</td> <td>https://hmis96.github.io/hmis96/</td> </tr>
+<tr> <td>11</td> <td>Adrián Rodríguez Escudero</td> <td>HMIS96</td> <td>https://hmis96.github.io/hmis96/</td> </tr>
 <tr> <td>12</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 <tr> <td>13</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 <tr> <td>14</td> <td>... </td> <td>... </td> <td>...</td> </tr>
