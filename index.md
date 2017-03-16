@@ -5,10 +5,10 @@
 <table>
 <tr> <td>#</td> <td>Nombre estudiante</td> <td>Equipo</td><td> Página de equipo </td></tr>
 <tr> <td>1</td> <td>Antonio Bordes</td> <td>Team Burton</td> <td>https://jalbladewing.github.io/TeamBurton/</td> </tr>
-<tr> <td>2</td> <td>Aitor García Luiz</td> <td>IluminatisHMIS</td> <td>https://iluminatishmis.github.io/</td> </tr>
+<tr> <td>2</td> <td>Juan Alberto Llopis</td> <td>Team Burton</td> <td>https://jalbladewing.github.io/TeamBurton/</td> </tr>
 <tr> <td>3</td> <td>Nikita Panteleev</td> <td>JoseAndNikita</td> <td>https://joseandnikita.github.io/hmis2017/</td> </tr>
 <tr> <td>4</td> <td>Jose Manuel Mateo Martín</td> <td>JoseAndNikita</td> <td>https://joseandnikita.github.io/hmis2017/</td> </tr>
-<tr> <td>5</td> <td>... </td> <td>... </td> <td>...</td> </tr>
+<tr> <td>5</td> <td>Aitor García Luiz</td> <td>IluminatisHMIS</td> <td>https://iluminatishmis.github.io/</td> </tr>
 <tr> <td>6</td> <td>Juan Antonio Pérez Clemente </td> <td>IluminatisHMIS</td> <td>https://iluminatishmis.github.io/</td> </tr>
 <tr> <td>7</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 <tr> <td>8</td> <td>... </td> <td>... </td> <td>...</td> </tr>
