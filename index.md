@@ -19,8 +19,8 @@
 <tr> <td>13</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 <tr> <td>14</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 <tr> <td>15</td> <td>... </td> <td>... </td> <td>...</td> </tr>
-<tr> <td>16</td> <td>... </td> <td>... </td> <td>...</td> </tr>
-<tr> <td>17</td> <td>... </td> <td>... </td> <td>...</td> </tr>
+<tr> <td>16</td> <td>Daniel López Morales</td> <td>RandomTeamUal</td> <td>[RandomTeamUal](https://randomteamual.github.io/)</td> </tr>
+<tr> <td>17</td> <td>Jorge Martinez Carvajal</td><td>RandomTeamUal</td><td>[RandomTeamUal](https://randomteamual.github.io/)</td></tr>
 <tr> <td>18</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 <tr> <td>19</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 <tr> <td>20</td> <td>... </td> <td>... </td> <td>...</td> </tr>
