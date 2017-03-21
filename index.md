@@ -11,7 +11,7 @@
 <tr> <td>5</td> <td>Aitor García Luiz</td> <td>IluminatisHMIS</td> <td>https://iluminatishmis.github.io/</td> </tr>
 <tr> <td>6</td> <td>Juan Antonio Pérez Clemente </td> <td>IluminatisHMIS</td> <td>https://iluminatishmis.github.io/</td> </tr>
 <tr> <td>7</td> <td>... </td> <td>... </td> <td>...</td> </tr>
-<tr> <td>8</td> <td>... </td> <td>... </td> <td>...</td> </tr>
+<tr> <td>8</td> <td>Sergio Pastor Giménez</td> <td>GitHeroes</td> <td>https://githeroes.github.io/githeroes/</td> </tr>
 <tr> <td>9</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 <tr> <td>10</td> <td>Alejandro Urdiales Manzanaro</td> <td>HMIS96</td> <td>https://hmis96.github.io/hmis96/</td> </tr>
 <tr> <td>11</td> <td>Adrián Rodríguez Escudero</td> <td>HMIS96</td> <td>https://hmis96.github.io/hmis96/</td> </tr>
