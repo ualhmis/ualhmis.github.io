@@ -3,7 +3,6 @@
 ## Páginas de equipo
 
 <table>
-
 <tr> <td>#</td> <td>Nombre estudiante</td> <td>Equipo</td><td> Página de equipo </td></tr>
 <tr> <td>1</td> <td>Antonio Bordes</td> <td>Team Burton</td> <td>https://jalbladewing.github.io/TeamBurton/</td> </tr>
 <tr> <td>2</td> <td>Juan Alberto Llopis</td> <td>Team Burton</td> <td>https://jalbladewing.github.io/TeamBurton/</td> </tr>
@@ -20,9 +19,12 @@
 <tr> <td>13</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 <tr> <td>14</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 <tr> <td>15</td> <td>... </td> <td>... </td> <td>...</td> </tr>
-<tr> <td>Daniel López Morales</td> <td>RandomTeamUal</td> <td>[RandomTeamUal](https://randomteamual.github.io/)</td> </tr>
-<tr> <td>Jorge Martinez Carvajal</td><td>RandomTeamUal</td><td>[RandomTeamUal](https://randomteamual.github.io/)</td></tr>
-<tr> <td>Antonio Bordes</td> <td>Team Burton</td> <td>https://jalbladewing.github.io/TeamBurton/</td> </tr>
-<tr> <td>Aitor García Luiz</td> <td>IluminatisHMIS</td> <td>https://iluminatishmis.github.io/</td> </tr>
+<tr> <td>16</td> <td>... </td> <td>... </td> <td>...</td> </tr>
+<tr> <td>17</td> <td>... </td> <td>... </td> <td>...</td> </tr>
+<tr> <td>18</td> <td>... </td> <td>... </td> <td>...</td> </tr>
+<tr> <td>19</td> <td>... </td> <td>... </td> <td>...</td> </tr>
+<tr> <td>20</td> <td>... </td> <td>... </td> <td>...</td> </tr>
+<tr> <td>21</td> <td>... </td> <td>... </td> <td>...</td> </tr>
+<tr> <td>22</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 <tr> <td>23</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 </table>
