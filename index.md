@@ -10,7 +10,7 @@
 <tr> <td>4</td> <td>Jose Manuel Mateo Martín</td> <td>JoseAndNikita</td> <td>https://joseandnikita.github.io/hmis2017/</td> </tr>
 <tr> <td>5</td> <td>Aitor García Luiz</td> <td>IluminatisHMIS</td> <td>https://iluminatishmis.github.io/</td> </tr>
 <tr> <td>6</td> <td>Juan Antonio Pérez Clemente </td> <td>IluminatisHMIS</td> <td>https://iluminatishmis.github.io/</td> </tr>
-<tr> <td>7</td> <td>... </td> <td>... </td> <td>...</td> </tr>
+<tr> <td>7</td> <td>Daniel Compán López de Lacalle</td> <td>D.com</td> <td><a href="https://dcompan.github.io/">https://dcompan.github.io/</a></td> </tr>
 <tr> <td>8</td> <td>Sergio Pastor Giménez</td> <td>GitHeroes</td> <td>https://githeroes.github.io/githeroes/</td> </tr>
 <tr> <td>9</td> <td>Mohamed Hnina </td> <td>GITHEROES</td> <td>https://githeroes.github.io/githeroes/</td> </tr>
 <tr> <td>10</td> <td>Alejandro Urdiales Manzanaro</td> <td>HMIS96</td> <td>https://hmis96.github.io/hmis96/</td> </tr>
