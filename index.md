@@ -1,6 +1,6 @@
 ﻿## Herramientas y Metodos IS
 
-## Páginas de equipo
+## Páginas de equipo HMIS 2017
 
 <table>
 <tr> <td>#</td> <td>Nombre estudiante</td> <td>Equipo</td><td> Página de equipo </td></tr>
@@ -28,3 +28,6 @@
 <tr> <td>22</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 <tr> <td>23</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 </table>
+
+## Enlaces
+* Enlaces[enlaces.md]
