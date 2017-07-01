@@ -29,5 +29,5 @@
 <tr> <td>23</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 </table>
 
-## Enlaces
-* Enlaces(enlaces.md)
+## Más info
+* [Enlaces de interés](enlaces.md)
