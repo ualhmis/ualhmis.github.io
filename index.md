@@ -27,6 +27,7 @@
 <tr> <td>21</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 <tr> <td>22</td> <td>... </td> <td>... </td> <td>...</td> </tr>
 <tr> <td>23</td> <td>... </td> <td>... </td> <td>...</td> </tr>
+<tr> <td>24</td> <td>Jose Manuel García Martín</td> <td>Equipo 024</td> <td>http://josemgm.github.io/</td> </tr>
 </table>
 
 ## Más info
