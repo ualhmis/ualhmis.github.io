@@ -2,7 +2,7 @@
 
 ## Páginas de equipo HMIS 2018
 
-# | Nombre estudiante  | Equipo | Página personal 
+id | Nombre estudiante  | Equipo | Página personal 
 -- | ----------------- | ----------------- | -----------------
 1 | NILS               |   |   
 2 | MATEUSZ            |   |   
