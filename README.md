@@ -2,11 +2,11 @@
 
 ## Páginas de equipo HMIS 2018
 
-id | Nombre estudiante  | Equipo | Página personal 
+id | Nombre estudiante  | Equipo | Página personal
 -- | ----------------- | ----------------- | -----------------
 1 | NILS               |   |   
 2 | MATEUSZ            |   |   
-3 | ALEXANDER          |   |   
+3 | ALEXANDER          | LosTresDelPuzzle  | https://github.com/Lilium213  
 4 | ALFONSO            |   |   
 5 | JUAN JOSE          |   |   
 6 | KEVIN              |   |   
@@ -15,11 +15,11 @@ id | Nombre estudiante  | Equipo | Página personal
 9 | MARIA FRANCISCA    |   |   
 10 | MIGUEL             |   |  
 11 | MOHAMED            |   |  
-12 | KONSTANTIN         |   |  
-13 | FRANCISCO          |   |  
+12 | KONSTANTIN         |  SingleDev  |  https://github.com/k-storm
+13 | FRANCISCO          | Equipo A  |  https://pacodos222.github.io/
 14 | RAZVAN ANDREI      |   |  
 15 | OSCAR              |   |  
-16 | MARCOS             |   |  
+16 | MARCOS             |  LosTresDelPuzzle |  https://github.com/marcoslupion
 17 | FRANCISCO JAVIER   |   |  
 18 | JOSE FRANCISCO     |   |  
 19 | JUAN JOSE          |   |  
@@ -33,7 +33,7 @@ id | Nombre estudiante  | Equipo | Página personal
 27 | FRANCISCO JESUS    |   |  
 28 | ANDREI             |   |  
 29 | SANTIAGO AGUSTIN   |   |  
-30 | JEFFERSON MAX      |   |  
+30 | JEFFERSON MAX      | Jumanji  |   https://jeffersonmax90.github.io/jeffersontomala.github.io/
 31 | VICTOR             |   |  
 Prof | Joaquin | hmis2018 | http://github.com/ualjjcanada
 
