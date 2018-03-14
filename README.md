@@ -33,7 +33,7 @@ id | Nombre estudiante  | Equipo | Página personal
 27 | FRANCISCO JESUS    |   |  
 28 | ANDREI             |   |  
 29 | SANTIAGO AGUSTIN   |   |  
-30 | JEFFERSON MAX      |   |  
+30 | JEFFERSON MAX      | Jumanji  |   https://jeffersonmax90.github.io/jeffersontomala.github.io/
 31 | VICTOR             |   |  
 
 
