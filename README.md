@@ -2,7 +2,7 @@
 
 ## Páginas de equipo HMIS 2018
 
-id | Nombre estudiante  | Equipo | Página personal 
+id | Nombre estudiante  | Equipo | Página personal
 -- | ----------------- | ----------------- | -----------------
 1 | NILS               |   |   
 2 | MATEUSZ            |   |   
@@ -12,7 +12,7 @@ id | Nombre estudiante  | Equipo | Página personal
 6 | KEVIN              |   |   
 7 | CARMEN ESTHER      |   |   	
 8 | ALBERTO            |   |   
-9 | MARIA FRANCISCA    |   |   
+9 | MARIA FRANCISCA    | Al Carrer | https://francisgalvez.github.io/  
 10 | MIGUEL             |   |  
 11 | MOHAMED            |   |  
 12 | KONSTANTIN         |   |  
