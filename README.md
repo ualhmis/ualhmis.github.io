@@ -23,7 +23,7 @@ id | Nombre estudiante  | Equipo | Página personal
 17 | FRANCISCO JAVIER   |   |  
 18 | JOSE FRANCISCO     |   |  
 19 | JUAN JOSE          |   |  
-20 | GABRIEL            |   |  
+20 | GABRIEL            | Najjary-Morales  |  https://github.com/gmc456
 21 | SALIM              |   |  
 22 | KIM                |   |  
 23 | SERGIO             |   |  
