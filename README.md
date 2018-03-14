@@ -15,7 +15,7 @@ id | Nombre estudiante  | Equipo | Página personal
 9 | MARIA FRANCISCA    |   |   
 10 | MIGUEL             |   |  
 11 | MOHAMED            |   |  
-12 | KONSTANTIN         |   |  
+12 | KONSTANTIN         |  SingleDev  |  https://github.com/k-storm
 13 | FRANCISCO          |   |  
 14 | RAZVAN ANDREI      |   |  
 15 | OSCAR              |   |  
