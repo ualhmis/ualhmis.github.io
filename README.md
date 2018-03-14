@@ -18,7 +18,7 @@ id | Nombre estudiante  | Equipo | Página personal
 12 | KONSTANTIN         |  SingleDev  |  https://github.com/k-storm
 13 | FRANCISCO          | Equipo A  |  https://pacodos222.github.io/
 14 | RAZVAN ANDREI      |   |  
-15 | OSCAR              |   |  
+15 | OSCAR              | Evolution | https://olm549.github.io 
 16 | MARCOS             |  LosTresDelPuzzle |  https://github.com/marcoslupion
 17 | FRANCISCO JAVIER   |   |  
 18 | JOSE FRANCISCO     |   |  
