@@ -16,8 +16,8 @@ id | Nombre estudiante  | Equipo | Página personal
 10 | MIGUEL             |   |  
 11 | MOHAMED            |   |  
 12 | KONSTANTIN         |   |  
-13 | FRANCISCO          |CoreI7|  RazvanAndreiLismanu.github.io
-14 | RAZVAN ANDREI      |   |  
+13 | FRANCISCO          |	|
+14 | RAZVAN ANDREI      |Corei7|RazvanAndreiLismanu.github.io
 15 | OSCAR              |   |  
 16 | MARCOS             |   |  
 17 | FRANCISCO JAVIER   |   |  
