@@ -10,7 +10,7 @@ id | Nombre estudiante  | Equipo | Página personal
 4 | ALFONSO            |   |   
 5 | JUAN JOSE          |   |   
 6 | KEVIN              |   |   
-7 | CARMEN ESTHER      |   |   	
+7 | CARMEN ESTHER      | Jumanji  | https://carmenesther.github.io/  	
 8 | ALBERTO            |   |   
 9 | MARIA FRANCISCA    |   |   
 10 | MIGUEL             |   |  
