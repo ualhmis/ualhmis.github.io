@@ -35,7 +35,7 @@ id | Nombre estudiante  | Equipo | Página personal
 29 | SANTIAGO AGUSTIN   |   |  
 30 | JEFFERSON MAX      |   |  
 31 | VICTOR             |   |  
-
+Prof | Joaquin | hmis2018 | http://github.com/ualjjcanada
 
 ## Páginas de cursos anteriores
 * [HMIS 2017](index2017.md)
