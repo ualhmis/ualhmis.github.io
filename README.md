@@ -18,7 +18,7 @@ id | Nombre estudiante  | Equipo | Página personal
 12 | KONSTANTIN         |   |  
 13 | FRANCISCO          |   |  
 14 | RAZVAN ANDREI      |   |  
-15 | OSCAR              |   |  
+15 | OSCAR              | Evolution | https://olm549.github.io 
 16 | MARCOS             |   |  
 17 | FRANCISCO JAVIER   |   |  
 18 | JOSE FRANCISCO     |   |  
