@@ -19,7 +19,7 @@ id | Nombre estudiante  | Equipo | Página personal
 13 | FRANCISCO          |   |  
 14 | RAZVAN ANDREI      |   |  
 15 | OSCAR              |   |  
-16 | MARCOS             |   |  
+16 | MARCOS             |  LosTresDelPuzzle |  https://github.com/marcoslupion
 17 | FRANCISCO JAVIER   |   |  
 18 | JOSE FRANCISCO     |   |  
 19 | JUAN JOSE          |   |  
