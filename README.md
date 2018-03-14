@@ -32,7 +32,7 @@ id | Nombre estudiante  | Equipo | Página personal
 26 | NURSULTAN          |   |  
 27 | FRANCISCO JESUS    |   |  
 28 | ANDREI             |   |  
-29 | SANTIAGO AGUSTIN   |   |  
+29 | SANTIAGO AGUSTIN   | Corei7  | https://ssg127.github.io/  
 30 | JEFFERSON MAX      | Jumanji  |   https://jeffersonmax90.github.io/jeffersontomala.github.io/
 31 | VICTOR             |   |  
 
