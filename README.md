@@ -7,7 +7,7 @@ id | Nombre estudiante  | Equipo | Página personal
 1 | NILS               |   |   
 2 | MATEUSZ            |   |   
 3 | ALEXANDER          | LosTresDelPuzzle  | https://github.com/Lilium213  
-4 | ALFONSO            |   |   
+4 | ALFONSO            |   KernelPanic|   alfonsocabreragimenez.github.io
 5 | JUAN JOSE          |   |   
 6 | KEVIN              |   |   
 7 | CARMEN ESTHER      | Jumanji  | https://carmenesther.github.io/  	
