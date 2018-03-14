@@ -2,7 +2,7 @@
 
 ## Páginas de equipo HMIS 2018
 
-id | Nombre estudiante  | Equipo | Página personal 
+id | Nombre estudiante  | Equipo | Página personal
 -- | ----------------- | ----------------- | -----------------
 1 | NILS               |   |   
 2 | MATEUSZ            |   |   
@@ -34,7 +34,7 @@ id | Nombre estudiante  | Equipo | Página personal
 28 | ANDREI             |   |  
 29 | SANTIAGO AGUSTIN   |   |  
 30 | JEFFERSON MAX      |   |  
-31 | VICTOR             |   |  
+31 | VICTOR             | Al Carrer |  http://varrrro.github.io
 
 
 ## Páginas de cursos anteriores
