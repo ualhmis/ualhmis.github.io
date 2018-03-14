@@ -6,24 +6,24 @@ id | Nombre estudiante  | Equipo | Página personal
 -- | ----------------- | ----------------- | -----------------
 1 | NILS               |   |   
 2 | MATEUSZ            |   |   
-3 | ALEXANDER          |   |   
-4 | ALFONSO            |   |   
+3 | ALEXANDER          | LosTresDelPuzzle  | https://github.com/Lilium213  
+4 | ALFONSO            |   KernelPanic|   alfonsocabreragimenez.github.io
 5 | JUAN JOSE          |   |   
 6 | KEVIN              |   |   
-7 | CARMEN ESTHER      |   |   	
+7 | CARMEN ESTHER      | Jumanji  | https://carmenesther.github.io/  	
 8 | ALBERTO            |   |   
-9 | MARIA FRANCISCA    |   |   
+9 | MARIA FRANCISCA    | Al Carrer | https://francisgalvez.github.io/  
 10 | MIGUEL             |   |  
 11 | MOHAMED            |   |  
-12 | KONSTANTIN         |   |  
-13 | FRANCISCO          |   |  
+12 | KONSTANTIN         |  SingleDev  |  https://github.com/k-storm
+13 | FRANCISCO          | Equipo A  |  https://pacodos222.github.io/
 14 | RAZVAN ANDREI      |   |  
-15 | OSCAR              |   |  
-16 | MARCOS             |   |  
+15 | OSCAR              | Evolution | https://olm549.github.io 
+16 | MARCOS             |  LosTresDelPuzzle |  https://github.com/marcoslupion
 17 | FRANCISCO JAVIER   |   |  
 18 | JOSE FRANCISCO     |   |  
 19 | JUAN JOSE          |   |  
-20 | GABRIEL            |   |  
+20 | GABRIEL            | Najjary-Morales  |  https://github.com/gmc456
 21 | SALIM              |   |  
 22 | KIM                |   |  
 23 | SERGIO             |   |  
@@ -32,10 +32,10 @@ id | Nombre estudiante  | Equipo | Página personal
 26 | NURSULTAN          |   |  
 27 | FRANCISCO JESUS    |   |  
 28 | ANDREI             |   |  
-29 | SANTIAGO AGUSTIN   |   |  
-30 | JEFFERSON MAX      |   |  
+29 | SANTIAGO AGUSTIN   | Corei7  | https://ssg127.github.io/  
+30 | JEFFERSON MAX      | Jumanji  |   https://jeffersonmax90.github.io/jeffersontomala.github.io/
 31 | VICTOR             | Al Carrer |  http://varrrro.github.io
-
+Prof | Joaquin | hmis2018 | http://github.com/ualjjcanada
 
 ## Páginas de cursos anteriores
 * [HMIS 2017](index2017.md)
