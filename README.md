@@ -34,7 +34,7 @@ id | Nombre estudiante  | Equipo | Página personal
 28 | ANDREI             |   |  
 29 | SANTIAGO AGUSTIN   | Corei7  | https://ssg127.github.io/  
 30 | JEFFERSON MAX      | Jumanji  |   https://jeffersonmax90.github.io/jeffersontomala.github.io/
-31 | VICTOR             |   |  
+31 | VICTOR             | Al Carrer |  http://varrrro.github.io
 Prof | Joaquin | hmis2018 | http://github.com/ualjjcanada
 
 ## Páginas de cursos anteriores
