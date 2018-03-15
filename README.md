@@ -36,6 +36,7 @@ id | Nombre estudiante  | Equipo | Página personal
 30 | JEFFERSON MAX      | Jumanji  |   https://jeffersonmax90.github.io/jeffersontomala.github.io/
 31 | VICTOR             | Al Carrer |  http://varrrro.github.io
 Prof | Joaquin | hmis2018 | http://github.com/ualjjcanada
+Eras | Joaquin | erasmushmis | https://github.com/ualjjcanada
 
 ## Páginas de cursos anteriores
 * [HMIS 2017](index2017.md)
