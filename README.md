@@ -31,7 +31,7 @@ id | Nombre estudiante  | Equipo | Página personal
 25 | JOSE FRANCISCO     |   |  
 26 | NURSULTAN          |   |  
 27 | FRANCISCO JESUS    |   |  
-28 | ANDREI             |   |  
+28 | ANDREI             | Let Us Pass  |  https://skarmakhovich.github.io
 29 | SANTIAGO AGUSTIN   | Corei7  | https://ssg127.github.io/  
 30 | JEFFERSON MAX      | Jumanji  |   https://jeffersonmax90.github.io/jeffersontomala.github.io/
 31 | VICTOR             | Al Carrer |  http://varrrro.github.io
