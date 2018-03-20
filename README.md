@@ -27,7 +27,7 @@ id | Nombre estudiante  | Equipo | Página personal
 21 | SALIM              |   |  
 22 | KIM                |   |  
 23 | SERGIO             |   |  
-24 | ALVARO             |   |  
+24 | ALVARO             |  Pole |  https://SnakeDoc12.github.io
 25 | JOSE FRANCISCO     |   |  
 26 | NURSULTAN          |   |  
 27 | FRANCISCO JESUS    |   |  
