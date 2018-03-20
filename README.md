@@ -28,7 +28,7 @@ id | Nombre estudiante  | Equipo | Página personal
 22 | KIM                |   |  
 23 | SERGIO             | DobleTurno  | https://sergio-gps.github.io/ 
 24 | ALVARO             |  Pole |  https://SnakeDoc12.github.io
-25 | JOSE FRANCISCO     |   |  
+25 | JOSE FRANCISCO     | Pole | https://jfrz38.github.io/  
 26 | NURSULTAN          |   |  
 27 | FRANCISCO JESUS    |   |  
 28 | ANDREI             | Let Us Pass  |  https://skarmakhovich.github.io
