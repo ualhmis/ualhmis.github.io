@@ -8,7 +8,7 @@ id | Nombre estudiante  | Equipo | Página personal
 2 | MATEUSZ            | Let Us Pass Please | https://github.com/mbereszczuk  
 3 | ALEXANDER          | LosTresDelPuzzle  | https://github.com/Lilium213  
 4 | ALFONSO            |   KernelPanic|   alfonsocabreragimenez.github.io
-5 | JUAN JOSE          |   |   
+5 | JUAN JOSE          |   Neymar Down   https://jmc076.github.io
 6 | KEVIN              |   |   
 7 | CARMEN ESTHER      | Jumanji  | https://carmenesther.github.io/  	
 8 | ALBERTO            |   |   
