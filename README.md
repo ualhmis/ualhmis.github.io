@@ -15,7 +15,7 @@ id | Nombre estudiante  | Equipo | Página personal
 9 | MARIA FRANCISCA    | Al Carrer | https://francisgalvez.github.io/  
 10 | MIGUEL             | Equipo A  |  https://miguelons11.github.io/
 11 | MOHAMED            |   |  
-12 | KONSTANTIN         |  SingleDev  |  https://github.com/k-storm
+12 | KONSTANTIN         |  SingleDev  |  https://k-storm.github.io
 13 | FRANCISCO          | Equipo A  |  https://pacodos222.github.io/
 14 | RAZVAN ANDREI      |Corei7|RazvanAndreiLismanu.github.io
 15 | OSCAR              | Evolution | https://olm549.github.io 
