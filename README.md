@@ -24,7 +24,7 @@ id | Nombre estudiante  | Equipo | Página personal
 18 | JOSE FRANCISCO     |   |  
 19 | JUAN JOSE          |   |  
 20 | GABRIEL            | Najjary-Morales  |  https://github.com/gmc456
-21 | SALIM              |   |  
+21 | SALIM              | Najjary-Morales  |  https://github.com/lydzje
 22 | KIM                |   |  
 23 | SERGIO             | DobleTurno  | https://sergio-gps.github.io/ 
 24 | ALVARO             |  Pole |  https://SnakeDoc12.github.io
