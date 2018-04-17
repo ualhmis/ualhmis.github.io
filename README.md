@@ -21,7 +21,7 @@ id | Nombre estudiante  | Equipo | Página personal
 15 | OSCAR              | Evolution | https://olm549.github.io 
 16 | MARCOS             |  LosTresDelPuzzle |  https://github.com/marcoslupion
 17 | FRANCISCO JAVIER   |  Neymar Down |  https://fran703.github.io/fmg703.github.io/
-18 | JOSE FRANCISCO     |   |  
+18 | JOSE FRANCISCO     |   KernelPanic|  https://jmr779.github.io/ 
 19 | JUAN JOSE          |   |  
 20 | GABRIEL            | Najjary-Morales  |  https://github.com/gmc456
 21 | SALIM              | Najjary-Morales  |  https://github.com/lydzje
