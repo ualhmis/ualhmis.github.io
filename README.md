@@ -11,7 +11,7 @@ id | Nombre estudiante  | Equipo | Página personal
 5 | JUAN JOSE          |   Neymar Down   https://jmc076.github.io
 6 | KEVIN              |   |   
 7 | CARMEN ESTHER      | Jumanji  | https://carmenesther.github.io/  	
-8 | ALBERTO            |   |   
+8 | ALBERTO            | KernelPanic  |  https://aff151.github.io/ 
 9 | MARIA FRANCISCA    | Al Carrer | https://francisgalvez.github.io/  
 10 | MIGUEL             | Equipo A  |  https://miguelons11.github.io/
 11 | MOHAMED            |   |  
