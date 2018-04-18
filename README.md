@@ -9,7 +9,7 @@ id | Nombre estudiante  | Equipo | Página personal
 3 | ALEXANDER          | LosTresDelPuzzle  | https://github.com/Lilium213  
 4 | ALFONSO            |   KernelPanic|   alfonsocabreragimenez.github.io
 5 | JUAN JOSE          |   Neymar Down   https://jmc076.github.io
-6 | KEVIN              |   |   
+6 | KEVIN              |  DOBLETURNO | https://github.com/KevBerja/KevBerja.github.io  
 7 | CARMEN ESTHER      | Jumanji  | https://carmenesther.github.io/  	
 8 | ALBERTO            |   |   
 9 | MARIA FRANCISCA    | Al Carrer | https://francisgalvez.github.io/  
