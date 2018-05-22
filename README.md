@@ -10,7 +10,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 4 | ALFONSO            |   KernelPanic|   alfonsocabreragimenez.github.io  |
 5 | JUAN JOSE          |   Neymar Down   https://jmc076.github.io  |
 6 | KEVIN              |  DOBLETURNO | https://github.com/KevBerja/KevBerja.github.io  |
-7 | CARMEN ESTHER      | Jumanji  | https://carmenesther.github.io/  	|
+7 | CARMEN ESTHER      | Jumanji  | https://carmenesther.github.io/  	| https://github.com/carmenesther/JumanjiWebsite
 8 | ALBERTO            |   |   |
 9 | MARIA FRANCISCA    | Al Carrer | https://francisgalvez.github.io/   |
 10 | MIGUEL             | Equipo A  |  https://miguelons11.github.io/  |
