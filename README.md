@@ -2,7 +2,7 @@
 
 ## Páginas de equipo HMIS 2018
 
-id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equipo 
+id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equipo (sesion04)
 -- | ----------------- | ----------------- | ----------------- | -----------------
 1 | NILS               |   |   |
 2 | MATEUSZ            | Let Us Pass Please | https://github.com/mbereszczuk  | 
