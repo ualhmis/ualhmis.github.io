@@ -5,8 +5,8 @@
 id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equipo (sesion04)
 -- | ----------------- | ----------------- | ----------------- | -----------------
 1 | NILS               |   |   |
-2 | MATEUSZ            | Let Us Pass Please | https://github.com/mbereszczuk  | 
-3 | ALEXANDER          | LosTresDelPuzzle  | https://github.com/Lilium213  |
+2 | MATEUSZ            | Let Us Pass Please | https://github.com/mbereszczuk  |
+3 | ALEXANDER          | LosTresDelPuzzle  | https://lilium213.github.io  | https://github.com/Lilium213/StaticPageLosTresDelPuzzle-1
 4 | ALFONSO            |   KernelPanic|   alfonsocabreragimenez.github.io  |
 5 | JUAN JOSE          |   Neymar Down   https://jmc076.github.io  |
 6 | KEVIN              |  DOBLETURNO | https://github.com/KevBerja/KevBerja.github.io  |
@@ -24,9 +24,9 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 18 | JOSE FRANCISCO     |   KernelPanic|  https://jmr779.github.io/   |
 19 | JUAN JOSE          |   |    |
 20 | GABRIEL            | Najjary-Morales  |  https://github.com/gmc456  |
-21 | SALIM              | Najjary-Morales  |  https://github.com/lydzje  | 
+21 | SALIM              | Najjary-Morales  |  https://github.com/lydzje  |
 22 | KIM                |   |   |
-23 | SERGIO             | DobleTurno  | https://sergio-gps.github.io/  | 
+23 | SERGIO             | DobleTurno  | https://sergio-gps.github.io/  |
 24 | ALVARO             |  Pole |  https://SnakeDoc12.github.io   |
 25 | JOSE FRANCISCO     | Pole | https://jfrz38.github.io/   |
 26 | NURSULTAN          |   |   |
