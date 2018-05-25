@@ -16,7 +16,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 10 | MIGUEL             | Equipo A  |  https://miguelons11.github.io/  |
 11 | MOHAMED            |   |  |
 12 | KONSTANTIN         |  SingleDev  |  https://k-storm.github.io  |
-13 | FRANCISCO          | Equipo A  |  https://pacodos222.github.io/  |
+13 | FRANCISCO          | Equipo A  |  https://pacodos222.github.io/  | http://equipoa-hmis18-vm3.eastus.cloudapp.azure.com
 14 | RAZVAN ANDREI      |Corei7|RazvanAndreiLismanu.github.io  |
 15 | OSCAR              | Evolution | https://olm549.github.io  |
 16 | MARCOS             |  LosTresDelPuzzle |  https://github.com/marcoslupion  |
