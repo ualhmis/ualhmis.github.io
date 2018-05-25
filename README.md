@@ -13,7 +13,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 7 | CARMEN ESTHER      | Jumanji  | https://carmenesther.github.io/  	|
 8 | ALBERTO            |   |   |
 9 | MARIA FRANCISCA    | Al Carrer | https://francisgalvez.github.io/   |
-10 | MIGUEL             | Equipo A  |  https://miguelons11.github.io/  |
+10 | MIGUEL             | Equipo A  |  https://miguelons11.github.io/  |    http://equipoa-hmis18-vm3.eastus.cloudapp.azure.com
 11 | MOHAMED            |   |  |
 12 | KONSTANTIN         |  SingleDev  |  https://k-storm.github.io  |
 13 | FRANCISCO          | Equipo A  |  https://pacodos222.github.io/  |
