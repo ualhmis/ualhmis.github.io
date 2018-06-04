@@ -8,7 +8,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 2 | MATEUSZ            | Let Us Pass Please | https://github.com/mbereszczuk  | 
 3 | ALEXANDER          | LosTresDelPuzzle  | https://lilium213.github.io  | https://github.com/Lilium213/StaticPageLosTresDelPuzzle-1
 4 | ALFONSO            |   KernelPanic|   alfonsocabreragimenez.github.io  |
-5 | JUAN JOSE          |   Neymar Down   https://jmc076.github.io  |
+5 | JUAN JOSE          | Evolution  | https://juanjocamacho.github.io/  |
 6 | KEVIN              |  DOBLETURNO | https://github.com/KevBerja/KevBerja.github.io  |
 7 | CARMEN ESTHER      | Jumanji  | https://carmenesther.github.io/  	| https://github.com/carmenesther/JumanjiWebsite
 8 | ALBERTO            | KernelPanic  |  https://aff151.github.io/ |
@@ -22,7 +22,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 16 | MARCOS             |  LosTresDelPuzzle |  https://marcoslupion.github.io/ |  https://github.com/marcoslupion/StaticPageLosTresDelPuzzle
 17 | FRANCISCO JAVIER   |  Neymar Down |  https://fran703.github.io/fmg703.github.io/  |
 18 | JOSE FRANCISCO     |   KernelPanic|  https://jmr779.github.io/   |
-19 | JUAN JOSE          |   |    |
+19 | JUAN JOSE          |  Neymar Down | https://jmc076.github.io   |
 20 | GABRIEL            | Najjary-Morales  |  https://github.com/gmc456  |
 21 | SALIM              | Najjary-Morales  |  https://github.com/lydzje  | 
 22 | KIM                |   |   |
