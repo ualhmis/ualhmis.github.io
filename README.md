@@ -6,7 +6,7 @@ id | Nombre estudiante  | Equipo | Página personal
 -- | ----------------- | ----------------- | -----------------
 1 | NILS               |   |   
 2 | MATEUSZ            | Let Us Pass Please | https://github.com/mbereszczuk  
-3 | ALEXANDER          | LosTresDelPuzzle  | https://github.com/Lilium213  
+3 | ALEXANDER          | LosTresDelPuzzle  | https://lilium213.github.io  | https://github.com/Lilium213/StaticPageLosTresDelPuzzle-1
 4 | ALFONSO            |   KernelPanic|   alfonsocabreragimenez.github.io
 5 | JUAN JOSE          |   Neymar Down   https://jmc076.github.io
 6 | KEVIN              |   |   
