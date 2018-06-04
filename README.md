@@ -19,7 +19,7 @@ id | Nombre estudiante  | Equipo | Página personal
 13 | FRANCISCO          | Equipo A  |  https://pacodos222.github.io/
 14 | RAZVAN ANDREI      |Corei7|RazvanAndreiLismanu.github.io
 15 | OSCAR              | Evolution | https://olm549.github.io 
-16 | MARCOS             |  LosTresDelPuzzle |  https://github.com/marcoslupion
+16 | MARCOS             |  LosTresDelPuzzle |  https://marcoslupion.github.io/ | https://github.com/marcoslupion/StaticPageLosTresDelPuzzle
 17 | FRANCISCO JAVIER   |  Neymar Down |  https://fran703.github.io/fmg703.github.io/
 18 | JOSE FRANCISCO     |   KernelPanic|  https://jmr779.github.io/ 
 19 | JUAN JOSE          |   |  
