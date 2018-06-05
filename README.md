@@ -9,12 +9,12 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 3 | ALEXANDER          | LosTresDelPuzzle  | https://lilium213.github.io  | https://github.com/Lilium213/StaticPageLosTresDelPuzzle-1
 4 | ALFONSO            |   KernelPanic|   alfonsocabreragimenez.github.io  |
 5 | JUAN JOSE          | Evolution  | https://juanjocamacho.github.io/  |
-6 | KEVIN              |  DOBLETURNO | https://github.com/KevBerja/KevBerja.github.io  |
+6 | KEVIN              |  DOBLETURNO | https://github.com/KevBerja/KevBerja.github.io  | https://github.com/sergio-gps/DobleTurno_WebPage
 7 | CARMEN ESTHER      | Jumanji  | https://carmenesther.github.io/  	| https://github.com/carmenesther/JumanjiWebsite
 8 | ALBERTO            | KernelPanic  |  https://aff151.github.io/ |
 9 | MARIA FRANCISCA    | Al Carrer | https://francisgalvez.github.io/   |
 10 | MIGUEL             | Equipo A  |  https://miguelons11.github.io/  |    http://equipoa-hmis18-vm3.eastus.cloudapp.azure.com
-11 | MOHAMED            |   |  |
+11 | MOHAMED            | DOBLETURNO  |  | https://github.com/sergio-gps/DobleTurno_WebPage
 12 | KONSTANTIN         |  SingleDev  |  https://k-storm.github.io  |
 13 | FRANCISCO          | Equipo A  |  https://pacodos222.github.io/  | http://equipoa-hmis18-vm3.eastus.cloudapp.azure.com
 14 | RAZVAN ANDREI      |Corei7|RazvanAndreiLismanu.github.io  |
@@ -26,7 +26,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 20 | GABRIEL            | Najjary-Morales  |  https://github.com/gmc456  |
 21 | SALIM              | Najjary-Morales  |  https://github.com/lydzje  | 
 22 | KIM                |   |   |
-23 | SERGIO             | DobleTurno  | https://sergio-gps.github.io/  | 
+23 | SERGIO             | DOBLETURNO  | https://sergio-gps.github.io/  | https://github.com/sergio-gps/DobleTurno_WebPage
 24 | ALVARO             |  Pole |  https://SnakeDoc12.github.io   |
 25 | JOSE FRANCISCO     | Pole | https://jfrz38.github.io/   |
 26 | NURSULTAN          |   |   |
