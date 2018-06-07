@@ -32,7 +32,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 26 | NURSULTAN          |   |   |
 27 | FRANCISCO JESUS    |   |   |
 28 | ANDREI             | Let Us Pass  |  https://skarmakhovich.github.io  |
-29 | SANTIAGO AGUSTIN   | Corei7  | https://ssg127.github.io/   |
+29 | SANTIAGO AGUSTIN   | Corei7  | https://ssg127.github.io/   |  https://github.com/ssg127/hmis_sesion04.git
 30 | JEFFERSON MAX      | Jumanji  |   https://jeffersonmax90.github.io/jeffersontomala.github.io/  |
 31 | VICTOR             | Al Carrer |  http://varrrro.github.io  |
 Prof | Joaquin | hmis2018 | http://github.com/ualjjcanada  |
