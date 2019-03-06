@@ -6,9 +6,12 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 -- | ----------------- | ----------------- | ----------------- | -----------------
 1  | Francisco Jesús García López | UnbloloGolgakai |   | https://github.com/Frangar1998/hmis-repo01
 2  | Alejandro Francisco García Uclés | UnbloloGolgakai |  | https://github.com/AlejandroFrGU/hmis-repo01
-3  | Jose Antonio Parra Sánchez | |
+3  | Jose Antonio Parra Sánchez | | |
+4 | Francisco José     |         |                 | https://github.com/FranciscoMartLop
 Prof | Joaquin | hmis2018 | http://github.com/ualjjcanada  |
+Prof | Manel | hmis2019 | http://github.com/manelme  |
 Eras | Joaquin | erasmushmis | https://github.com/ualjjcanada  |
+
 
 ## Páginas de cursos anteriores
 * [HMIS 2017](index2017.md)
