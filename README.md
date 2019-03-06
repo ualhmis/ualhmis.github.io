@@ -4,8 +4,7 @@
 
 id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equipo 
 -- | ----------------- | ----------------- | ----------------- | -----------------
-3 | Francisco José     |         |                 | https://github.com/FranciscoMartLop  | 
-https://github.com/Lilium213/StaticPageLosTresDelPuzzle-1
+3 | Francisco José     |         |                 | https://github.com/FranciscoMartLop
 Prof | Joaquin | hmis2018 | http://github.com/ualjjcanada  |
 Prof | Manel | hmis2019 | http://github.com/manelme  |
 Eras | Joaquin | erasmushmis | https://github.com/ualjjcanada  |
