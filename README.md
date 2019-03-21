@@ -10,7 +10,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 4  | Francisco Jesús García López | UnbloloGolgakai |   | https://github.com/Frangar1998/hmis-repo01
 5  | Alejandro Francisco García Uclés | UnbloloGolgakai |  | https://github.com/AlejandroFrGU/hmis-repo01
 6  | Jose Antonio Parra Sánchez | | |
-7  | | | |
+7  |Ulaş Deniz İlhan |ERASMUS+|https://github.com/denizilhan|https://github.com/denizilhan/hmis-repo01
 8  | Jordan Dehneh | ERASMUS+ | https://github.com/JordanDehneh | https://github.com/JordanDehneh/hmis-repo01 |
 9  | | | |
 10  | | | |
