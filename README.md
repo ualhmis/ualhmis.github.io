@@ -11,7 +11,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 5  | Alejandro Francisco García Uclés | UnbloloGolgakai |  | https://github.com/AlejandroFrGU/hmis-repo01
 6  | Jose Antonio Parra Sánchez | | |
 7  | | | |
-8  | | | |
+8  | Jordan Dehneh | ERASMUS+ | https://github.com/JordanDehneh | https://github.com/JordanDehneh/hmis-repo01 |
 9  | | | |
 10  | | | |
 Prof | Joaquin | hmis2019 | http://github.com/ualjjcanada  |
