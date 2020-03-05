@@ -9,7 +9,6 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 3 |Juan Jose Pallares Sanchez| G-MartinezPallares| | 
 4 |Felipe Antonio Cano Galera |D100 |Kraftyr/clasehmis2020-fcg299| 
 5 | | | | 
-<<<<<<< HEAD
 6 | Pablo Almansa Torres| Endlessdeadend | https://github.com/pakar12/hmis-repo01.git | 
 7 | Francisco Javier Hernández Montoya| GrossoHernandez | http://github.com/fhm850 | |  
 8 | Osuama Dahbi Sebbaghi | BravoDahbi| http://github.com/ods883| 
@@ -19,17 +18,6 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 12 | Daniel Ortega Rubio | TeamADA | https://github.com/Dor494 | 
 13 | Tesifón Robles|  BlancoRobles| | 
 14 | Aarón Blanco | BlancoRobles | | 
-=======
-6 | | | | 
-7 | | | | 
-8 | | | | 
-9 | Juan Pablo Grosso Tarazaga | GrossoHernandez | http://github.com/jgt627 | 
-10 | | | | 
-11 | | | | 
-12 | | | | 
-13 | | | | 
-14 | | | | 
->>>>>>> 40478e1b235e0d34cdc52807160795015c4c9397
 15 | | | | 
 16 | Ramón Francisco Ramos Tristan | Qwerty | http://github.com/rtyui578 | ---------- 
 17 | Diego Cangas Moldes | nelim | https://diegocangas.github.io/ | -----------------
