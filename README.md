@@ -16,8 +16,8 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 10 | | | | 
 11 | | | | 
 12 | | | | 
-13 | | | | 
-14 | | | | 
+13 | Tesifón Robles|  BlancoRobles| | 
+14 | Aarón Blanco | BlancoRobles | | 
 15 | | | | 
 16 | | | | 
 17 | | | | 
