@@ -4,23 +4,24 @@
 
 id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equipo 
 -- | ----------------- | ----------------- | ----------------- | -----------------
+
 1 | | | | 
 2 | Miguel Ángel Puertas Sánchez | EndlessDeadEnd |  | 
 3 | | | | 
 4 | | | | 
 5 | | | | 
 6 | | | | 
-7 | | | | 
-8 | | | | 
+7 | Francisco Javier Hernández Montoya| GrossoHernandez | http://github.com/fhm850 | |  
+8 | Osuama Dahbi Sebbaghi | BravoDahbi| http://github.com/ods883| 
 9 | | | | 
-10 | | | | 
+10 | Alonso Bravo Moyano | BravoDahbi | https://dogudo.github.io/hmis-repo01/ | 
 11 | | | | 
 12 | | | | 
 13 | | | | 
 14 | | | | 
 15 | | | | 
-16 | | | | 
-17 | | | | 
+16 | Ramón Francisco Ramos Tristan | Qwerty | http://github.com/rtyui578 | ---------- 
+17 | Diego Cangas Moldes | nelim | https://diegocangas.github.io/ | -----------------
 18 | | | | 
 19 | | | | 
 20 | | | | 
