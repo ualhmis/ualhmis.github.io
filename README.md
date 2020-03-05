@@ -4,7 +4,7 @@
 
 id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equipo 
 -- | ----------------- | ----------------- | ----------------- | -----------------
-1 || | | 
+1 |David Martinez Jimenez| G-MartinezPallares | | 
 2 | | | | 
 3 | | | | 
 4 | | | | 
