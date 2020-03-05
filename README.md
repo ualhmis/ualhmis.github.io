@@ -12,7 +12,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 6 | | | | 
 7 | | | | 
 8 | | | | 
-9 | | | | 
+9 | Juan Pablo Grosso Tarazaga | GrossoHernandez | http://github.com/jgt627 | 
 10 | | | | 
 11 | | | | 
 12 | | | | 
