@@ -20,7 +20,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 14 | | | | 
 15 | | | | 
 16 | | | | 
-17 | | | | 
+17 | Diego Cangas Moldes | nelim | https://diegocangas.github.io/ | -----------------
 18 | | | | 
 19 | | | | 
 20 | | | | 
