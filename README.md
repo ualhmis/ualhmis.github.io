@@ -4,14 +4,14 @@
 
 id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equipo 
 -- | ----------------- | ----------------- | ----------------- | -----------------
-1 | | | | 
+1 || | | 
 2 | | | | 
 3 | | | | 
 4 | | | | 
 5 | | | | 
 6 | | | | 
 7 | | | | 
-8 | | | | 
+8 | Osuama Dahbi Sebbaghi | BravoDahbi| http://github.com/ods883| 
 9 | | | | 
 10 | | | | 
 11 | | | | 
