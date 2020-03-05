@@ -6,7 +6,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 -- | ----------------- | ----------------- | ----------------- | -----------------
 1 | | | | 
 2 | | | | 
-3 |Juan Jose Pallares Sanchez| G-MartinezPallares| https://github.com/Palla551 | 
+3 |Juan Jose Pallares Sanchez| G-MartinezPallares| | 
 4 | | | | 
 5 | | | | 
 6 | | | | 
