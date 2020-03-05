@@ -9,7 +9,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 3 | | | | 
 4 |Felipe Antonio Cano Galera |D100 |Kraftyr/clasehmis2020-fcg299| 
 5 | | | | 
-6 | | | | 
+6 | Pablo Almansa Torres| Endlessdeadend | https://github.com/pakar12/hmis-repo01.git | 
 7 | Francisco Javier Hernández Montoya| GrossoHernandez | http://github.com/fhm850 | |  
 8 | Osuama Dahbi Sebbaghi | BravoDahbi| http://github.com/ods883| 
 9 | | | | 
