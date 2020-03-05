@@ -15,7 +15,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 9 | | | | 
 10 | Alonso Bravo Moyano | BravoDahbi | https://dogudo.github.io/hmis-repo01/ | 
 11 | Alberto Angel Fuentes Funes | TeamADA | https://github.com/21albertoff/ | 
-12 | Daniel Ortega Rubio | TeamADA | https://github.com/Dor494 | 
+12 | Daniel Ortega Rubio | TeamADA | https: //github.com/Dor494 | 
 13 | Tesifón Robles|  BlancoRobles| | 
 14 | Aarón Blanco | BlancoRobles | | 
 15 | | | | 
@@ -23,7 +23,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 17 | Diego Cangas Moldes | nelim | https://diegocangas.github.io/ | -----------------
 18 | Fracisco José Martínez | MoralesMartínez | |  
 19 | José María Morales | MoralesMartínez | | 
-20 | | | | 
+20 | Alejo Martín Arias Filippo | TeamADA | https://github.com/alejomaf/ | |
 21 | | | | 
 22 | | | | 
 23 | | | | 
