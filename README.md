@@ -7,7 +7,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 1 | | | | 
 2 | | | | 
 3 | | | | 
-4 |Felipe Antonio Cano Galera |D100 | |Kraftyr/clasehmis2020-fcg299 
+4 |Felipe Antonio Cano Galera |D100 |Kraftyr/clasehmis2020-fcg299| 
 5 | | | | 
 6 | | | | 
 7 | | | | 
