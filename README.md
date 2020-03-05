@@ -4,8 +4,9 @@
 
 id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equipo 
 -- | ----------------- | ----------------- | ----------------- | -----------------
-1 || | | 
-2 | | | | 
+
+1 | | | | 
+2 | Miguel Ángel Puertas Sánchez | EndlessDeadEnd |  | 
 3 | | | | 
 4 |Felipe Antonio Cano Galera |D100 |Kraftyr/clasehmis2020-fcg299| 
 5 | | | | 
