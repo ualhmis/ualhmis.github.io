@@ -4,14 +4,14 @@
 
 id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equipo 
 -- | ----------------- | ----------------- | ----------------- | -----------------
-1 | | | | 
+1 || | | 
 2 | | | | 
 3 | | | | 
 4 | | | | 
 5 | | | | 
 6 | | | | 
 7 | Francisco Javier Hernández Montoya| GrossoHernandez | http://github.com/fhm850 | |  
-8 | | | | 
+8 | Osuama Dahbi Sebbaghi | BravoDahbi| http://github.com/ods883| 
 9 | | | | 
 10 | | | | 
 11 | | | | 
@@ -20,7 +20,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 14 | | | | 
 15 | | | | 
 16 | | | | 
-17 | | | | 
+17 | Diego Cangas Moldes | nelim | https://diegocangas.github.io/ | -----------------
 18 | | | | 
 19 | | | | 
 20 | | | | 
