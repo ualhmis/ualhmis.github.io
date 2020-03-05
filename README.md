@@ -14,7 +14,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 8 | Osuama Dahbi Sebbaghi | BravoDahbi| http://github.com/ods883| 
 9 | | | | 
 10 | Alonso Bravo Moyano | BravoDahbi | https://dogudo.github.io/hmis-repo01/ | 
-11 | | | | 
+11 | Alberto Angel Fuentes Funes | TeamADA | https://github.com/21albertoff/ | 
 12 | | | | 
 13 | Tesifón Robles|  BlancoRobles| | 
 14 | Aarón Blanco | BlancoRobles | | 
