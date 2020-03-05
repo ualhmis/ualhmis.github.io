@@ -16,13 +16,13 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 10 | Alonso Bravo Moyano | BravoDahbi | https://dogudo.github.io/hmis-repo01/ | 
 11 | | | | 
 12 | | | | 
-13 | | | | 
-14 | | | | 
+13 | Tesifón Robles|  BlancoRobles| | 
+14 | Aarón Blanco | BlancoRobles | | 
 15 | | | | 
 16 | Ramón Francisco Ramos Tristan | Qwerty | http://github.com/rtyui578 | ---------- 
 17 | Diego Cangas Moldes | nelim | https://diegocangas.github.io/ | -----------------
-18 | | | | 
-19 | | | | 
+18 | Fracisco José Martínez | MoralesMartínez | |  
+19 | José María Morales | MoralesMartínez | | 
 20 | | | | 
 21 | | | | 
 22 | | | | 
