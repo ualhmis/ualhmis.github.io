@@ -4,7 +4,7 @@
 
 id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equipo 
 -- | ----------------- | ----------------- | ----------------- | -----------------
-1 | | | | 
+1 | Diego Cangas Moldes | nelim | https://diegocangas.github.io/ | -----------------
 2 | | | | 
 3 | | | | 
 4 | | | | 
