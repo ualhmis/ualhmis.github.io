@@ -13,7 +13,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 7 | | | | 
 8 | | | | 
 9 | | | | 
-10 | | | | 
+10 | Alonso Bravo Moyano | BravoDahbi | https://dogudo.github.io/hmis-repo01/ | 
 11 | | | | 
 12 | | | | 
 13 | | | | 
