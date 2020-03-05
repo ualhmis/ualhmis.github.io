@@ -21,8 +21,8 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 15 | | | | 
 16 | | | | 
 17 | | | | 
-18 | | | | 
-19 | | | | 
+18 | Fracisco José Martínez | MoralesMartínez | |  
+19 | José María Morales | MoralesMartínez | | 
 20 | | | | 
 21 | | | | 
 22 | | | | 
