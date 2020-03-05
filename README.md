@@ -15,7 +15,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 9 | | | | 
 10 | Alonso Bravo Moyano | BravoDahbi | https://dogudo.github.io/hmis-repo01/ | 
 11 | | | | 
-12 | | | | 
+12 | Daniel Ortega Rubio | TeamADA | https://github.com/Dor494 | 
 13 | Tesifón Robles|  BlancoRobles| | 
 14 | Aarón Blanco | BlancoRobles | | 
 15 | | | | 
