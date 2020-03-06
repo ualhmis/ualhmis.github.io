@@ -12,7 +12,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 6 | Pablo Almansa Torres| Endlessdeadend | https://github.com/pakar12/hmis-repo01.git | 
 7 | Francisco Javier Hernández Montoya| GrossoHernandez | http://github.com/fhm850 | |  
 8 | Osuama Dahbi Sebbaghi | BravoDahbi| http://github.com/ods883| 
-9 | | | | 
+9 | Juan Pablo Grosso Tarazaga | GrossoHernandez | http://github.com/jgt627 | 
 10 | Alonso Bravo Moyano | BravoDahbi | https://dogudo.github.io/hmis-repo01/ | 
 11 | Alberto Angel Fuentes Funes | TeamADA | https://github.com/21albertoff/ | 
 12 | Daniel Ortega Rubio | TeamADA | https://github.com/Dor494 | 
