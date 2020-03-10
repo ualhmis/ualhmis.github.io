@@ -8,7 +8,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 2 | | | | 
 3 | | | | 
 4 | | | | 
-5 | | | | 
+5 | Ismael Cruz Bello | D100 | http://github.com/icb163 | -
 6 | | | | 
 7 | | | | 
 8 | | | | 
