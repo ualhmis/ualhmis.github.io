@@ -15,16 +15,16 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 9 | Juan Pablo Grosso Tarazaga | GrossoHernandez | http://github.com/jgt627 | 
 10 | Alonso Bravo Moyano | BravoDahbi | https://dogudo.github.io/hmis-repo01/ | 
 11 | Alberto Angel Fuentes Funes | TeamADA | https://github.com/21albertoff/ | 
-12 | Daniel Ortega Rubio | TeamADA | https: //github.com/Dor494 | 
-13 | Tesifón Robles|  BlancoRobles| | 
+12 | Daniel Ortega Rubio | TeamADA | https: //github.com/Dor494 |  
+13 | Tesifón Robles|  BlancoRobles| https://trm187.github.io | 
 14 | Aarón Blanco | BlancoRobles | | 
-15 | | | | 
+15 | Claudio Rodriguez Lopez | Qwerty | http://github.com/Claudio1812 | 
 16 | Ramón Francisco Ramos Tristan | Qwerty | http://github.com/rtyui578 | ---------- 
 17 | Diego Cangas Moldes | nelim | https://diegocangas.github.io/ | -----------------
 18 | Fracisco José Martínez | MoralesMartínez | |  
 19 | José María Morales | MoralesMartínez | | 
 20 | Alejo Martín Arias Filippo | TeamADA | https://github.com/alejomaf/ | |
-21 | | | | 
+21 | Pablo Daniel Estévez Bretones | nelim | https://github.com/pablodaniel11/ | 
 22 | Daniel Martínez Rosillo | Los ángeles de Stark | https://github.com/dmr372 | --------------
 23 | | | | 
 24 | | | | 
