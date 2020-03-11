@@ -1,4 +1,4 @@
-﻿## Herramientas y Metodos IS
+## Herramientas y Metodos IS
 
 ## Páginas de equipo HMIS 2020
 
@@ -25,7 +25,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 19 | José María Morales | MoralesMartínez | | 
 20 | Alejo Martín Arias Filippo | TeamADA | https://github.com/alejomaf/ | |
 21 | | | | 
-22 | | | | 
+22 | Daniel Martínez Rosillo | Los ángeles de Stark | https://github.com/dmr372 | --------------
 23 | | | | 
 24 | | | | 
 25 | | | | 
