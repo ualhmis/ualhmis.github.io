@@ -4,7 +4,7 @@
 
 id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equipo 
 -- | ----------------- | ----------------- | ----------------- | -----------------
-1 |David Martinez Jimenez| G-MartinezPallares | https://github.com/dmj619/dmj619.github.io |http://jenkins-hmis-dmj619.northeurope.cloudapp.azure.com/| 
+1 |David Martinez Jimenez| G-MartinezPallares | https://github.com/dmj619/dmj619.github.io |http://webg-martinezpallares.northeurope.cloudapp.azure.com/| 
 2 | Miguel Ángel Puertas Sánchez | EndlessDeadEnd |  | 
 3 |Juan Jose Pallares Sanchez| G-MartinezPallares| palla551.github.io |  https://github.com/dmj619/G-MartinezPallares
 4 |Felipe Antonio Cano Galera |D100 |Kraftyr/clasehmis2020-fcg299| 
