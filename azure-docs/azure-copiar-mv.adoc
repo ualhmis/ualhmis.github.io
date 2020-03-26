@@ -50,6 +50,7 @@ Debes tener una máquina virtual creada, y haber sufrido una incidencia de que t
 [WARNING]
 ====
 Starting at 09:12 UTC on 19 Mar 2020 you have been identified as a customer using Virtual Machines in North Europe who may receive error notifications when performing service management operations—such as create, update, scale, and start—for resources in this region.
+====
 
 En ese caso, la solución es hacer una copia de la instancia en otra región de Azure.
 
