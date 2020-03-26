@@ -28,7 +28,8 @@ Joaquín Cañadas <jjcanada@ual.es>
 ////
 COLOCA A CONTINUACION EL RESUMEN
 ////
-Creación de una copia de una máquina virtual en otra región de Azure. Primero se describe como crear una instantanea (snapshot) de una máquina virtual existente, y luego cómo se crea una nueva máquina virtual a partir de una instantanea
+Creación de una copia de una máquina virtual en otra región de Azure. *ESTA TAREA ES IMPOSIBLE HACERLA CON EL PORTAL, AL MENOS POR AHORA*. Los pasos descritos fallan al final del proceso. Lo dejo documentado para guardar registro del tiempo que he peridio (mas de 3 horas).
+Primero se describe como crear una instantanea (snapshot) de una máquina virtual existente, y luego cómo se crea una nueva máquina virtual a partir de una instantanea
 
 
 
@@ -60,45 +61,48 @@ Una instantánea es una copia completa de solo lectura de un disco duro virtual 
 
 Si va a usar la instantánea para crear una máquina virtual, se recomienda un cierre limpio de la máquina virtual antes de realizar una instantánea para así limpiar cualquier proceso que esté en curso.
 
-## Pasos a realizar en el Portal de Azure
+# Pasos a realizar en el Portal de Azure
 
 Para crear una instantánea, complete los siguientes pasos:
 
-. En Azure Portal, seleccione *Crear un recurso*.
-. Busque y seleccione *Snapshot*.
-. En la ventana *Instantánea*, seleccione *Crear*. 
+. En Azure Portal, seleccione *Maquinas Virtuales*, 
+. Seleccione la *máquina virtual* para la que desee crear la instantanea.
+. Seleccione *Discos*. A continuación, seleccione el disco de sistema operativo de esa instancia
 
-image::images/snapshot-create.jpg[Create snapshot, 400]
+image::images/selecion-disco-vm.png[Seleccion de disco de la VM]
 
-. Aparece la ventana *Crear instantánea*.
+. Seleccione  *Crear instantánea*.
+
+image::images/create-snapshot-from-disk.png[Crear instantanea desde disco de la VM]
+
+. Seleccione un *Grupo de recursos* existente de la máquina virtual.
 . Escriba un *nombre* para la instantánea.
-. Seleccione un *Grupo de recursos* existente o escriba el nombre de uno nuevo (recomendado usar el mismo grupo de recursos de la máquina virtual).
-. Seleccione la *región donde se encuentra la máquina virtual* sobre la que desee a crear la instantanea.
-. Como *disco de origen*, seleccione el disco de sistema operativo de la máquina virtual, tipo *OsDisk*.
 . Seleccione el *tipo de cuenta* que se usará para almacenar la instantánea. Use *Standard_HDD*.
 
-image::images/create-snapshot-form.jpg[Create snapshot form]
+image::images/create-snapshot-form-jenkins.png[Create snapshot form]
 
 . Seleccione *Revisar + Crear*, a continuación *Crear*.
 
-image::images/snapshot-creado.jpg[Snapshot creado]
+# Creación de una máquina virtual en una nueva región a partir de una imagen administrada
 
-# Creación de una máquina virtual a partir de una imagen administrada
+Cree una máquina virtual en una nueva región a partir de una instantánea. Para ello,cree primero un disco administrado a partir de la instantánea y conéctelo como disco del sistema operativo a la nueva máquina virtual, siguiendo los siguientes pasos: 
 
-Cree una máquina virtual a partir de una instantánea. Para ello,cree primero un disco administrado a partir de la instantánea y conéctelo como disco del sistema operativo a la nueva máquina virtual, siguiendo los siguientes pasos: 
+. Cree un nuevo grupo de recursos en la nueva región. Para ello, vaya a *grupos de recursos, añadir*. 
+
+image::images/nuevo-resource-group.png[Nuevo grupo de recursos en nueva region]
 
 . En Azure Portal, seleccione *Discos*
 
 image::images/disks.jpg[Snapshot creado]
 
 . Seleccione *Añadir* nuevo disco. Aparece la ventana *Crear Disco administrado*.
-. Seleccione un *Grupo de recursos* existente o escriba el nombre de uno nuevo (recomendado usar el mismo grupo de recursos de la máquina virtual).
+. Seleccione el *Grupo de recursos* existente donde se encuentra la instantanea.
 . Escriba un *nombre* para el disco.
 . Seleccione la *región donde se encuentra la instantanea*.
 . Como *Tipo de origen*, elija *Snapshot*
 . Como *Instantanea de origen*, seleccione la instantea creada anteriormente.
 
-image::images/disco-desde-snapshot.jpg[Disco desde snapshot]
+image::images/disco-desde-snapshot.png[Disco desde snapshot]
 
 . En *Tamaño*, seleccione *cambiar tamaño*. A continuación, elija tipo *Standard HDD* y tamaño *32 GB*.
 
@@ -106,3 +110,14 @@ image::images/change-size.png[Disco desde snapshot]
 
 . Seleccione *Revisar + Crear*, a continuación *Crear*.
 
+image::images/disk-created.png[Disco Creado]
+
+. Vuelva al *grupo de recursos* donde guardó el disco administrado. Seleccione *Mover*.
+
+image::images/mover-rg.png[]
+
+. Seleccione el disco administrado y la instantanea, elija el grupo de recursos de destino, y marque la opción necesaria para pulsar Ok.
+
+image::images/mover-resources.png[]
+
+. Tras unos segundos de validación, ... minutos ... mas minutos ... Los recursos se copian pero se mantienen en la región origial. POR TANTO, LA MAQUINA VIRTUAL SE CREA EN LA REGIÓN ORIGINAL Y TODOS ESTOS PASOS SON INÚTILES. 
