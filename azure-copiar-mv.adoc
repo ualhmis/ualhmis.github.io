@@ -1,0 +1,80 @@
+////
+Codificación, idioma, tabla de contenidos, tipo de documento
+////
+:encoding: utf-8
+:lang: es
+:toc: right
+:toc-title: Tabla de contenidos
+:keywords: Azure virtual machine snapshot
+:doctype: book
+
+////
+/// activar btn:
+////
+:experimental:
+
+////
+Nombre y título del trabajo
+////
+= Crear una copia de una máquina virtual
+Heramientas y Métodos de Ingeniería del Software
+Version 1.0, Marzo-2020
+Joaquín Cañadas <jjcanada@ual.es>
+
+// Entrar en modo no numerado de apartados
+:numbered!: 
+
+[abstract]
+////
+COLOCA A CONTINUACION EL RESUMEN
+////
+Creación de una copia de una máquina virtual en otra región de Azure. Primero se describe como crear una instantanea (snapshot) de una máquina virtual existente, y luego cómo se crea una nueva máquina virtual a partir de una instantanea
+
+
+
+////
+COLOCA A CONTINUACION LOS OBJETIVOS
+////
+.Objetivos
+* Crear una instantanea (snapshot) de una máquina virtual existente
+* Crear una nueva máquina virtual a partir de una instantanea
+
+// Entrar en modo numerado de apartados
+:numbered:
+
+# Prerequisitos
+
+Debes tener una máquina virtual creada, y haber sufrido una incidencia de que tu máquina virtual o instancia no puede ser iniciada, del tipo: 
+
+.Allocation failures for Virtual Machines in North Europe
+[WARNING]
+====
+Starting at 09:12 UTC on 19 Mar 2020 you have been identified as a customer using Virtual Machines in North Europe who may receive error notifications when performing service management operations—such as create, update, scale, and start—for resources in this region.
+
+En ese caso, la solución es hacer una copia de la instancia en otra región de Azure.
+
+# Crear una instantánea
+
+Una instantánea es una copia completa de solo lectura de un disco duro virtual (VHD). Haga una instantánea de un disco duro del sistema operativo para realizar una copia de seguridad o para solucionar problemas de la máquina virtual.
+
+Si va a usar la instantánea para crear una máquina virtual, se recomienda un cierre limpio de la máquina virtual antes de realizar una instantánea para así limpiar cualquier proceso que esté en curso.
+
+## Pasos a realizar en el Portal de Azure
+
+Para crear una instantánea, complete los siguientes pasos:
+
+. En Azure Portal, seleccione *Crear un recurso*.
+. Busque y seleccione *Snapshot*.
+. En la ventana *Instantánea*, seleccione *Crear*. Aparece la ventana *Crear instantánea*.
+. Escriba un *nombre* para la instantánea.
+. Seleccione un *Grupo de recursos* existente o escriba el nombre de uno nuevo (recomendado usar el mismo grupo de recursos de la máquina virtual).
+. Seleccione una *ubicación* del centro de datos de Azure.
+. Como *disco de origen*, seleccione el disco administrado para la instantánea.
+. Seleccione el *tipo de cuenta* que se usará para almacenar la instantánea. Use *Standard_HDD*.
+. Seleccione *Crear*.
+
+# Crear una máquina virtual a partir de una instantanea
+
+Cree una máquina virtual a partir de una instantánea. Para ello: 
+
+. Cree primero un disco administrado con la instantánea y conéctelo como disco del sistema operativo. Para más información, consulte el ejemplo de 
