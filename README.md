@@ -11,7 +11,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 5 | | | | 
 6 | | | | 
 7 | | | | 
-8 | Osuama Dahbi Sebbaghi | BravoDahbi| http://github.com/ods883| 
+8 | Osuama Dahbi Sebbaghi | BravoDahbi| http://github.com/ods883| https://github.com/ods883/BarvoDahbi.git
 9 | | | | 
 10 | | | | 
 11 | | | | 
