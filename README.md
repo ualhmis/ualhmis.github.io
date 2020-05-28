@@ -10,9 +10,9 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 4 |Felipe Antonio Cano Galera |D100 |Kraftyr/clasehmis2020-fcg299| 
 5 | Ismael Cruz Bello | D100 | http://github.com/icb163 | -
 6 | Pablo Almansa Torres| Endlessdeadend | https://github.com/pakar12/hmis-repo01.git | 
-7 | Francisco Javier Hernández Montoya| GrossoHernandez | http://github.com/fhm850 | https://github.com/jgt627/GrossoHernandez.git|  
-8 | Osuama Dahbi Sebbaghi | BravoDahbi| http://github.com/ods883| 
-9 | Juan Pablo Grosso Tarazaga | GrossoHernandez | http://github.com/jgt627 | https://github.com/jgt627/GrossoHernandez.git|
+7 | Francisco Javier Hernández Montoya| GrossoHernandez | http://github.com/fhm850 | https://github.com/jgt627/GrossoHernandez.git |   
+8 | Osuama Dahbi Sebbaghi | BravoDahbi| http://github.com/ods883 | http://webbravodahbi.eastus.cloudapp.azure.com/ |  
+9 | Juan Pablo Grosso Tarazaga | GrossoHernandez | http://github.com/jgt627 | https://github.com/jgt627/GrossoHernandez.git |
 10 | Alonso Bravo Moyano | BravoDahbi | https://dogudo.github.io/hmis-repo01/ | 
 11 | Alberto Angel Fuentes Funes | TeamADA | [https://github.com/21albertoff/](https://github.com/21albertoff/) |[https://21albertoff.github.com/TeamAda/](https://21albertoff.github.io/TeamAda/)
 12 | Daniel Ortega Rubio | TeamADA | https: //github.com/Dor494 |  
