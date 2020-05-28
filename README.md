@@ -17,7 +17,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 11 | Alberto Angel Fuentes Funes | TeamADA | [https://github.com/21albertoff/](https://github.com/21albertoff/) |[https://21albertoff.github.com/TeamAda/](https://21albertoff.github.io/TeamAda/)
 12 | Daniel Ortega Rubio | TeamADA | https: //github.com/Dor494 |  
 13 | Tesifón Robles|  BlancoRobles| https://trm187.github.io | 
-14 | Aarón Blanco | BlancoRobles |https://aaronblanco.github.io | 
+14 | Aarón Blanco | BlancoRobles |https://aaronblanco.github.io | https://github.com/aaronblanco/hmis-sesion04 
 15 | Claudio Rodriguez Lopez | Qwerty | http://github.com/Claudio1812 | Yo voy con rmaon el de abajo
 16 | Ramón Francisco Ramos Tristan | Qwerty | http://github.com/rtyui578 | paginaqwerty-1124545454.westeurope.cloud.app.azure.com 
 17 | Diego Cangas Moldes | nelim | https://diegocangas.github.io/ | -----------------
