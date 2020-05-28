@@ -5,7 +5,7 @@
 id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equipo 
 -- | ----------------- | ----------------- | ----------------- | -----------------
 1 |David Martinez Jimenez| G-MartinezPallares | https://github.com/dmj619/dmj619.github.io |http://webg-martinezpallares.northeurope.cloudapp.azure.com/| 
-2 | Miguel Ángel Puertas Sánchez | EndlessDeadEnd | https://github.com/luxor-g/hmis-sesion04 | https://github.com/luxor-g
+2 | Miguel Ángel Puertas Sánchez | EndlessDeadEnd | https://github.com/luxor-g/hmis-sesion04 | endless-page.eastus.cloudapp.azure.com
 3 |Juan Jose Pallares Sanchez| G-MartinezPallares| palla551.github.io |  https://github.com/dmj619/G-MartinezPallares
 4 |Felipe Antonio Cano Galera |D100 |Kraftyr/clasehmis2020-fcg299| 
 5 | Ismael Cruz Bello | D100 | http://github.com/icb163 | -
