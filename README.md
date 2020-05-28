@@ -25,7 +25,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 19 | José María Morales | MoralesMartínez | https://github.com/jmm497/jmm497.github.io | https://github.com/jmm497/Sesion04HMIS
 20 | Alejo Martín Arias Filippo | TeamADA | https://github.com/alejomaf/ | |
 21 | Pablo Daniel Estévez Bretones | nelim | https://github.com/pablodaniel11/ | 
-22 | Daniel Martínez Rosillo | Los ángeles de Stark | https://github.com/dmr372 | --------------
+22 | Daniel Martínez Rosillo | Los ángeles de Stark | https://github.com/dmr372 | https://hmis20-dmr372.azurewebsites.net
 23 | Juan Soler Márquee| G-Sevdalinov-Soler | https://github.com/juansolerual |  https://github.com/juansolerual/sesion04
 24 | | | | 
 25 | | | | 
