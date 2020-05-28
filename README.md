@@ -26,7 +26,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 20 | Alejo Martín Arias Filippo | TeamADA | https://github.com/alejomaf/ | |
 21 | Pablo Daniel Estévez Bretones | nelim | https://github.com/pablodaniel11/ | 
 22 | Daniel Martínez Rosillo | Los ángeles de Stark | https://github.com/dmr372 | --------------
-23 | Juan Soler Márquee| G-Sevdalinov-Soler | https://github.com/juansoler |  https://github.com/juansolerual/sesion04
+23 | Juan Soler Márquee| G-Sevdalinov-Soler | https://github.com/juansolerual |  https://github.com/juansolerual/sesion04
 24 | | | | 
 25 | | | | 
 26 | | | | 
