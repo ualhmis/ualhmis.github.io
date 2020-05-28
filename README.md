@@ -4,31 +4,6 @@
 
 id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equipo 
 -- | ----------------- | ----------------- | ----------------- | -----------------
-<<<<<<< HEAD
-1 || | | 
-2 | | | | 
-3 | | | | 
-4 | | | | 
-5 | | | | 
-6 | | | | 
-7 | | | | 
-8 | Osuama Dahbi Sebbaghi | BravoDahbi| http://github.com/ods883| https://github.com/ods883/BarvoDahbi.git
-9 | | | | 
-10 | | | | 
-11 | | | | 
-12 | | | | 
-13 | | | | 
-14 | | | | 
-15 | | | | 
-16 | | | | 
-17 | | | | 
-18 | | | | 
-19 | | | | 
-20 | | | | 
-21 | | | | 
-22 | | | | 
-23 | | | | 
-=======
 1 |David Martinez Jimenez| G-MartinezPallares | https://github.com/dmj619/dmj619.github.io |http://webg-martinezpallares.northeurope.cloudapp.azure.com/| 
 2 | Miguel Ángel Puertas Sánchez | EndlessDeadEnd | https://github.com/luxor-g/hmis-sesion04 | endless-page.eastus.cloudapp.azure.com
 3 |Juan Jose Pallares Sanchez| G-MartinezPallares| palla551.github.io |  https://hmis20-jps105.azurewebsites.net/
@@ -36,7 +11,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 5 | Ismael Cruz Bello | D100 | http://github.com/icb163 | -
 6 | Pablo Almansa Torres| Endlessdeadend | https://github.com/pakar12/hmis-repo01.git | 
 7 | Francisco Javier Hernández Montoya| GrossoHernandez | http://github.com/fhm850 | |  
-8 | Osuama Dahbi Sebbaghi | BravoDahbi| http://github.com/ods883| 
+8 | Osuama Dahbi Sebbaghi | BravoDahbi| http://github.com/ods883| http://webbravodahbi.eastus.cloudapp.azure.com/| 
 9 | Juan Pablo Grosso Tarazaga | GrossoHernandez | http://github.com/jgt627 | 
 10 | Alonso Bravo Moyano | BravoDahbi | https://dogudo.github.io/hmis-repo01/ | 
 11 | Alberto Angel Fuentes Funes | TeamADA | [https://github.com/21albertoff/](https://github.com/21albertoff/) |[https://21albertoff.github.com/TeamAda/](https://21albertoff.github.io/TeamAda/)
