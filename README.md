@@ -7,7 +7,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 1 |David Martinez Jimenez| G-MartinezPallares | https://github.com/dmj619/dmj619.github.io |http://webg-martinezpallares.northeurope.cloudapp.azure.com/| 
 2 | Miguel Ángel Puertas Sánchez | EndlessDeadEnd | https://github.com/luxor-g/hmis-sesion04 | endless-page.eastus.cloudapp.azure.com
 3 |Juan Jose Pallares Sanchez| G-MartinezPallares| palla551.github.io |  https://hmis20-jps105.azurewebsites.net/
-4 |Felipe Antonio Cano Galera |D100 |Kraftyr/clasehmis2020-fcg299| 
+4 |Felipe Antonio Cano Galera |D100 |https://github.com/fcg299|https://hmis20-fcg299.azurewebsites.net/ 
 5 | Ismael Cruz Bello | D100 | http://github.com/icb163 | -
 6 | Pablo Almansa Torres| Endlessdeadend | https://github.com/pakar12/hmis-repo01.git | 
 7 | Francisco Javier Hernández Montoya| GrossoHernandez | http://github.com/fhm850 | |  
