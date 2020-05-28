@@ -27,7 +27,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 21 | Pablo Daniel Estévez Bretones | nelim | https://github.com/pablodaniel11/ | 
 22 | | | | 
 23 | | | | 
-24 | | | | 
+24 | Nicolas Ortega Ponce |  Los Ángeles de Stark | https://github.com/nicoop98 |
 25 | | | | 
 26 | | | | 
 27 | | | | 
