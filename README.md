@@ -21,8 +21,8 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 15 | Claudio Rodriguez Lopez | Qwerty | http://github.com/Claudio1812 | Yo voy con rmaon el de abajo
 16 | Ramón Francisco Ramos Tristan | Qwerty | http://github.com/rtyui578 | paginaqwerty-1124545454.westeurope.cloud.app.azure.com 
 17 | Diego Cangas Moldes | nelim | https://diegocangas.github.io/ | -----------------
-18 | Fracisco José Martínez | MoralesMartínez | |  
-19 | José María Morales | MoralesMartínez | | 
+18 | Fracisco José Martínez | MoralesMartínez | https://github.com/fms528/fms528.github.io | https://github.com/jmm497/Sesion04HMIS
+19 | José María Morales | MoralesMartínez | https://github.com/jmm497/jmm497.github.io | https://github.com/jmm497/Sesion04HMIS
 20 | Alejo Martín Arias Filippo | TeamADA | https://github.com/alejomaf/ | |
 21 | Pablo Daniel Estévez Bretones | nelim | https://github.com/pablodaniel11/ | 
 22 | Daniel Martínez Rosillo | Los ángeles de Stark | https://github.com/dmr372 | --------------
