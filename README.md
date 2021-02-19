@@ -7,7 +7,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 1 | | | | 
 2 | | | | 
 3 | | | | 
-4 |Cristian |Equipo 3 | | 
+4 | | | | 
 5 | | | | 
 6 | | | | 
 7 | | | | 
@@ -17,9 +17,9 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 11 | | | |
 12 | | | | 
 13 | | | | 
-14 | Jesús Ramos | MoricziRamos |  | 
+14 | | | | 
 15 | | | | 
-16 | | | | 
+16 |Alejandro |Equipo de prácticas 2 |https://arg313.github.io/ | https://github.com/arg313/hmis-repo01.git
 17 | | | | 
 18 | | | | 
 
