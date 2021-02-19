@@ -17,7 +17,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 11 | | | |
 12 | | | | 
 13 | | | | 
-14 | | | | 
+14 | Jesús Ramos | MoricziRamos |  | 
 15 | | | | 
 16 | | | | 
 17 | | | | 
