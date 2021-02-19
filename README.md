@@ -17,7 +17,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 11 | | | |
 12 | | | | 
 13 | | | | 
-14 | | | | 
+14 | Rubén Ortega | Ortega² | (https://roe963.github.io/hmis-repo01/) | 
 15 | | | | 
 16 | | | | 
 17 | | | | 
