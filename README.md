@@ -14,7 +14,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 8 | | | | 
 9 | | | | 
 10 | | | | 
-11 | | | |
+11 | Hunor | MoricziRamos | |
 12 | | | | 
 13 | | | | 
 14 | | | | 
