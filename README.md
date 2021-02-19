@@ -7,7 +7,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 1 | | | | 
 2 | | | | 
 3 | | | | 
-4 | | | | 
+4 |Cristian |Equipo 3 | | 
 5 | | | | 
 6 | | | | 
 7 | | | | 
@@ -17,7 +17,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 11 | | | |
 12 | Juan Diego | OrtegaOrtega | https://github.com/joa102/hmis-repo01 | 
 13 | | | | 
-14 | | | | 
+14 | Jesús Ramos | MoricziRamos |  | 
 15 | | | | 
 16 | | | | 
 17 | | | | 
