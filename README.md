@@ -19,7 +19,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 13 | | | | 
 14 | | | | 
 15 | | | | 
-16 | | | | 
+16 | Deyan | GalvezRosenov | | 
 17 | | | | 
 18 | | | | 
 
