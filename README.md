@@ -13,7 +13,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 7 | | | | 
 8 | | | | 
 9 | | | | 
-10 | | | | 
+10 | Jorge | 1 | | 
 11 | | | |
 12 | | | | 
 13 | | | | 
