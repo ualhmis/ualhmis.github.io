@@ -7,7 +7,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 1 | | | | 
 2 | | | | 
 3 | | | | 
-4 | | | | 
+4 |Cristian |Equipo 3 | | 
 5 | | | | 
 6 | | | | 
 7 | | | | 
@@ -16,8 +16,8 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 10 | | | | 
 11 | | | |
 12 | | | | 
-13 | | | | 
-14 | Rubén Ortega | Ortega² | (https://roe963.github.io/hmis-repo01/) | 
+13 | Rubén Ortega | Ortega² | https://roe963.github.io/hmis-repo01/ | 
+14 | Jesús Ramos | MoricziRamos |  | 
 15 | | | | 
 16 | | | | 
 17 | | | | 
