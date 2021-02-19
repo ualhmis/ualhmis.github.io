@@ -1,6 +1,6 @@
 ## Herramientas y Metodos IS
 
-## Páginas de equipo HMIS 2020
+## Páginas de equipo HMIS 2021
 
 id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equipo 
 -- | ----------------- | ----------------- | ----------------- | -----------------
