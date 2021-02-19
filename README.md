@@ -15,7 +15,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 9 | | | | 
 10 | | | | 
 11 | | | |
-12 | | | | 
+12 | Juan Diego | OrtegaOrtega | https://github.com/joa102/hmis-repo01 | 
 13 | | | | 
 14 | | | | 
 15 | | | | 
