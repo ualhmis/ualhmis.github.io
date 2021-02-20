@@ -9,7 +9,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 3 | | | | 
 4 | | | | 
 5 | | | | 
-6 | MariaGalgon | GalvezRosenov | | 
+6 | Maria Galvez Gonzalez | GalvezRosenov | MariaGalGon.github.io | 
 7 | | | | 
 8 | | | | 
 9 | | | | 
