@@ -16,7 +16,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 10 | | | | 
 11 | Hunor | MoricziRamos | |
 12 | | | | 
-13 | | | | 
+13 | Rubén Ortega | Ortega² | https://roe963.github.io/hmis-repo01/ | 
 14 | Jesús Ramos | MoricziRamos |  | 
 15 | | | | 
 16 | Deyan | GalvezRosenov | | 
