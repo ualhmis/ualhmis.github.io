@@ -13,7 +13,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 7 | | | | 
 8 | | | | 
 9 | David Gómez López | GomezMontalban | | 
-10 | Jorge | 1 | | 
+10 | Jorge | FernandezMora | https://jorge617.github.io/ | 
 11 | Hunor | MoricziRamos | |
 12 | | | | 
 13 | Rubén Ortega | Ortega² | https://roe963.github.io/hmis-repo01/ | 
