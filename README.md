@@ -9,7 +9,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 3 | | | | 
 4 |Cristian |Equipo 3 | | 
 5 | | | | 
-6 | | | | 
+6 | MariaGalgon | GalvezRosenov | | 
 7 | | | | 
 8 | | | | 
 9 | David Gómez López | GomezMontalban | | 
