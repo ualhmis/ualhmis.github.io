@@ -9,17 +9,20 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 3 | | | | 
 4 |Cristian |Equipo 3 | | 
 5 | | | | 
-6 | | | | 
+6 | MariaGalgon | GalvezRosenov | | 
 7 | | | | 
 8 | | | | 
-9 | | | | 
+9 | David Gómez López | GomezMontalban | | 
 10 | | | | 
 11 | | | |
-12 | Juan Diego | OrtegaOrtega | https://github.com/joa102/hmis-repo01 | 
+12 | Juan Diego | Ortega² | https://github.com/joa102/hmis-repo01 | 
 13 | | | | 
+11 | Hunor | MoricziRamos | |
+12 | | | | 
+13 | Rubén Ortega | Ortega² | https://roe963.github.io/hmis-repo01/ | 
 14 | Jesús Ramos | MoricziRamos |  | 
 15 | | | | 
-16 | | | | 
+16 | Deyan | GalvezRosenov | | 
 17 | | | | 
 18 | | | | 
 
