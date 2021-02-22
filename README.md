@@ -35,3 +35,4 @@ Prof | Joaquin | hmis2021 | http://github.com/ualjjcanada  |
 
 ## Más info
 * [Enlaces de interés](enlaces.md)
+* [JORNADAS ORIÉNTATE en el IES AGUADULCE](http://iesaguadulce.com/orientate/)
