@@ -11,8 +11,8 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 5 | Marta | Equipo de prácticas 1 | https://mfg306.github.io/ | 
 6 | MariaGalgon | GalvezRosenov | | 
 7 | | | | 
-8 | | | | 
-9 | David Gómez López | GomezMontalban | | 
+8 | David Gómez López | GomezMontalban | | 
+9 |Guillermo |GómezMontalbán-6 |https://github.com/GuillermoMontalbanMartinez | 
 10 | | | | 
 11 | Hunor | MoricziRamos | |
 12 | | | | 
