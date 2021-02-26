@@ -10,8 +10,8 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 4 | | | | 
 5 | | | | 
 6 | | | | 
-7 | | | | 
-8 |Ángel Gómez Espinosa|Equipo 3|age296.github.io| 
+7 |Ángel Gómez Espinosa|Equipo 3|age296.github.io| 
+8 | | | | 
 9 | | | | 
 10 | | | | 
 11 | | | |
