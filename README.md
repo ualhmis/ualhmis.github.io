@@ -10,7 +10,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 4 | | | | 
 5 | | | | 
 6 | | | | 
-7 | Sokaina Baouch| GalvezRosenov | https://sb575.github.io/ | 
+7 | | | | 
 8 | | | | 
 9 | | | | 
 10 | | | | 
@@ -21,7 +21,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 15 | | | | 
 16 | | | | 
 17 | | | | 
-18 | | | | 
+18 | Sokaina Baouch | GalvezRosenovBaouch | https://sb575.github.io/ | 
 
 
 Prof | Joaquin | hmis2021 | http://github.com/ualjjcanada  |
