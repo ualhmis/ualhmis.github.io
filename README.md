@@ -6,11 +6,11 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 -- | ----------------- | ----------------- | ----------------- | -----------------
 1 | | | | 
 2 | | | | 
-3 | Sokaina | GalvezRosenov| https://sb575.github.io/| 
+3 | | | | 
 4 | | | | 
 5 | | | | 
 6 | | | | 
-7 | | | | 
+7 | Sokaina | GalvezRosenov | https://sb575.github.io/ | 
 8 | | | | 
 9 | | | | 
 10 | | | | 
