@@ -13,7 +13,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 7 | | | | 
 8 | David Gómez López | GomezMontalban | | 
 9 |Guillermo |GómezMontalbán-6 |https://github.com/GuillermoMontalbanMartinez | 
-10 | | | | 
+10 | Jorge | FernandezMora | https://jorge617.github.io/ | 
 11 | Hunor | MoricziRamos | |
 12 | | | | 
 13 | Rubén Ortega | Ortega² | https://roe963.github.io/hmis-repo01/ | 
@@ -22,6 +22,10 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 16 | Deyan | GalvezRosenov | | 
 17 | | | | 
 18 | | | | 
+
+
+=======
+
 
 
 Prof | Joaquin | hmis2021 | http://github.com/ualjjcanada  |
