@@ -19,7 +19,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 13 | Rubén Ortega | Ortega² | https://roe963.github.io/hmis-repo01/ | 
 14 | Jesús Ramos | MoricziRamos | https://jri838.github.io/ | 
 15 | | | | 
-16 | Deyan | GalvezRosenov | | 
+16 | Deyan | GalvezRosenovBaouch | drs600.github.io | 
 17 | | | | 
 18 | | | | 
 
