@@ -6,7 +6,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 -- | ----------------- | ----------------- | ----------------- | -----------------
 1 | | | | 
 2 | | | | 
-3 | SOKAINA BAOUCH| | https://github.com/sb575/hmis-repo01| 
+3 | Sokaina | GalvezRosenov| https://sb575.github.io/| 
 4 | | | | 
 5 | | | | 
 6 | | | | 
