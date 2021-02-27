@@ -10,7 +10,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 4 |Cristian |Equipo 3 | | 
 5 | Marta | Equipo de prácticas 1 | https://mfg306.github.io/ | 
 6 | MariaGalgon | GalvezRosenov | | 
-7 | | | | 
+7 |Ángel Gómez Espinosa|Equipo 3|https://age296.github.io/| 
 8 | David Gómez López | GomezMontalban | | 
 9 |Guillermo |GómezMontalbán-6 |https://github.com/GuillermoMontalbanMartinez | 
 10 | Jorge | FernandezMora | https://jorge617.github.io/ | 
