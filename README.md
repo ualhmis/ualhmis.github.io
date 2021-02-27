@@ -21,7 +21,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 15 |Alejandro |Equipo de prácticas 2 |https://arg313.github.io/ | https://github.com/arg313/hmis-repo01.git
 16 | Deyan | GalvezRosenovBaouch | drs600.github.io | 
 17 | | | | 
-18 | | | | 
+18 | Sokaina Baouch | GalvezRosenovBaouch | https://sb575.github.io/ | 
 
 
 =======
