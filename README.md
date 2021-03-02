@@ -15,7 +15,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 9 |Guillermo |GómezMontalbán-6 |https://github.com/GuillermoMontalbanMartinez | 
 10 | Jorge | FernandezMora | https://jorge617.github.io/ | 
 11 | Hunor | MoricziRamos | |
-12 | | | | 
+12 | Juan Diego | Ortega² | https://joa102.github.io/hmis-repo01/ | https://github.com/joa102/hmis-repo01
 13 | Rubén Ortega | Ortega² | https://roe963.github.io/hmis-repo01/ | 
 14 | Jesús Ramos | MoricziRamos | https://jri838.github.io/ | 
 15 |Alejandro |Equipo de prácticas 2 |https://arg313.github.io/ | https://github.com/arg313/hmis-repo01.git
