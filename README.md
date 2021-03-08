@@ -27,7 +27,6 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 
 =======
 
->>>>>>> 54e53dbd5deae26cd68ad2b606fb8cc3bf8e33d2
 
 
 Prof | Joaquin | hmis2021 | http://github.com/ualjjcanada  |
