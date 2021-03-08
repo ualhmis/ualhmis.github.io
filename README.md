@@ -22,7 +22,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 16 | | | | 
 17 | | | |
 18 | | | | 
-18 |Alejandro Tomas Soto Meca |Equipo 2 |https://alejandrotsoto.github.io/ | 
+19 |Alejandro Tomas Soto Meca |Equipo 2 |https://alejandrotsoto.github.io/ | 
 
 
 Prof | Joaquin | hmis2021 | http://github.com/ualjjcanada  |
