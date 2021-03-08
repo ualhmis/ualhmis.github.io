@@ -7,22 +7,27 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 1 | | | | 
 2 | | | | 
 3 | | | | 
-4 | | | | 
-5 | | | | 
-6 | | | | 
-7 | | | | 
-8 | | | | 
-9 | | | | 
-10 | | | | 
-11 | | | |
-12 | | | | 
-13 | | | | 
-14 | | | | 
-15 | | | | 
-16 | | | | 
-17 | | | |
-18 | | | | 
-19 |Alejandro Tomas Soto Meca |Equipo 2 |https://alejandrotsoto.github.io/ | 
+4 |Cristian |Equipo 3 | | 
+5 | Marta | Equipo de prácticas 1 | https://mfg306.github.io/ | 
+6 | María Gálvez González | GalvezRosenovBaouch | https://mariagalgon.github.io/ | 
+7 |Ángel Gómez Espinosa|Equipo 3|https://age296.github.io/| 
+8 | David Gómez López | GomezMontalban | | 
+9 |Guillermo |GómezMontalbán-6 |https://github.com/GuillermoMontalbanMartinez | 
+10 | Jorge | FernandezMora | https://jorge617.github.io/ | 
+11 | Hunor | MoricziRamos | |
+12 | Juan Diego | Ortega² | https://joa102.github.io/hmis-repo01/ | https://github.com/joa102/hmis-repo01
+13 | Rubén Ortega | Ortega² | https://roe963.github.io/hmis-repo01/ | 
+14 | Jesús Ramos | MoricziRamos | https://jri838.github.io/ | 
+15 |Alejandro |Equipo de prácticas 2 |https://arg313.github.io/ | https://github.com/arg313/hmis-repo01.git
+16 | Deyan | GalvezRosenovBaouch | drs600.github.io | 
+17 | | | | 
+18 | Sokaina Baouch | GalvezRosenovBaouch | https://sb575.github.io/ | 
+19 |Alejandro Tomás Soto Meca |Equipo de prácticas 2 |https://alejandrotsoto.github.io/ | 
+
+
+=======
+
+>>>>>>> 54e53dbd5deae26cd68ad2b606fb8cc3bf8e33d2
 
 
 Prof | Joaquin | hmis2021 | http://github.com/ualjjcanada  |
