@@ -17,7 +17,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 11 | | | | 
 12 | | | | 
 13 | | | | 
-14 | Ruth Maria Rodrigurz Simon | PuertasRodriguez |  | 
+14 | Ruth Maria Rodrigurz Simon | PuertasRodriguez | rk400 | 
 15 | | | | 
 16 | | | |
 17 | | | | 
