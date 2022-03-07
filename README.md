@@ -14,10 +14,10 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 8 | | | | 
 9 | | | |
 10 | | | | 
-11 | | | | 
-12 | | | | 
+11 | Mariano Fernández | Equipo11 | https://github.com/mfa645 | 
+12 | Adrian Camacho | Equipo 11 | https://github.com/acc728 | | 
 13 | | | | 
-14 | | | | 
+14 | Ruth Maria Rodrigurz Simon | PuertasRodriguez | rk400 | 
 15 | | | | 
 16 | | | |
 17 | | | | 
@@ -33,10 +33,6 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 27 | | | | 
 28 | | | | 
 29 | | | |
-=======
-
-
-
 Prof | Joaquin | hmis2021 | http://github.com/ualjjcanada  |
 
 
