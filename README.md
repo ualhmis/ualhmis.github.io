@@ -11,7 +11,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 5 | | | | 
 6 | | | |
 7 | | | | 
-8 | | | | 
+8 |Daniel Atienza Rubi | Equipo 8 |https://github.com/dar779 | 
 9 | | | |
 10 | | | | 
 11 | Mariano Fernández | Equipo11 | https://github.com/mfa645 | 
