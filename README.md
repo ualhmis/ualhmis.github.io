@@ -14,7 +14,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 8 | | | | 
 9 | | | |
 10 | | | | 
-11 | | | | 
+11 | Mariano Fernández | Equipo11 | https://github.com/mfa645 | 
 12 | | | | 
 13 | | | | 
 14 | | | | 
