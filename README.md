@@ -2,7 +2,7 @@
 
 ## Páginas de equipo HMIS 2022
 
-id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equipo 
+id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo 
 -- | ----------------- | ----------------- | ----------------- | -----------------
 1 | | | | 
 2 | | | | 
