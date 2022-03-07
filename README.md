@@ -7,7 +7,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 1 | | | | 
 2 | | | | 
 3 | | | | 
-4 | | | | 
+4 | José Luis Garrido Castro | Equipo 4 | https://github.com/selugc4 | 
 5 | | | | 
 6 | | | |
 7 | | | | 
