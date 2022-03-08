@@ -13,7 +13,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 7 | | | | 
 8 | | | | 
 9 | | | |
-10 | | | | 
+10 | Miguel Torres | Equipo 7 | https://github.com/mta162 | 
 11 | | | | 
 12 | | | | 
 13 | | | | 
