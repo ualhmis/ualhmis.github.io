@@ -23,7 +23,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 17 | | | | 
 18 | | | | 
 19 | | | |
-20 | | | | 
+20 | David Montesinos | | mdmontesinos | 
 21 | | | | 
 22 | | | | 
 23 | | | | 
