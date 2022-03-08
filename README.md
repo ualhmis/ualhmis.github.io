@@ -19,7 +19,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 13 | | | | 
 14 | Ruth Maria Rodrigurz Simon | PuertasRodriguez | rk400 | 
 15 | | | | 
-16 | | | |
+16 | Francisco Javier Mota López | Equipo 10 | https://github.com/ualfranjavierml |
 17 | | | | 
 18 | | | | 
 19 | | | |
