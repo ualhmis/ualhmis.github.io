@@ -4,26 +4,26 @@
 
 id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo 
 -- | ----------------- | ----------------- | ----------------- | -----------------
-1 | | | | 
+1 | Jesús Cazorla González| Equipo 4 | https://github.com/jesuscazorla | 
 2 | | | | 
 3 | | | | 
-4 | | | | 
+4 | José Luis Garrido Castro | Equipo 4 | https://github.com/selugc4 | 
 5 | | | | 
 6 | | | |
 7 | | | | 
-8 | | | | 
+8 |Daniel Atienza Rubi | Equipo 8 |https://github.com/dar779 | 
 9 | | | |
 10 | Miguel Torres | Equipo 7 | https://github.com/mta162 | 
-11 | | | | 
-12 | | | | 
+11 | Mariano Fernández | Equipo11 | https://github.com/mfa645 | 
+12 | Adrian Camacho | Equipo 11 | https://github.com/acc728 | | 
 13 | | | | 
-14 | | | | 
+14 | Ruth Maria Rodrigurz Simon | PuertasRodriguez | rk400 | 
 15 | | | | 
 16 | | | |
 17 | | | | 
 18 | | | | 
 19 | | | |
-20 | | | | 
+20 | David Montesinos | | mdmontesinos | 
 21 | | | | 
 22 | | | | 
 23 | | | | 
@@ -33,10 +33,6 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 27 | | | | 
 28 | | | | 
 29 | | | |
-=======
-
-
-
 Prof | Joaquin | hmis2021 | http://github.com/ualjjcanada  |
 
 
