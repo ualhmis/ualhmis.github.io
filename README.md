@@ -25,7 +25,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 19 | | | |
 20 | David Montesinos | | mdmontesinos | 
 21 | | | | 
-22 | | | | 
+22 | Adrián Rodríguez Manzano | Equipo 3 | https://github.com/adrianrm00 | 
 23 | | | | 
 24 | | | | 
 25 | | | | 
