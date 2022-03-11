@@ -31,7 +31,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 25 | | | | 
 26 | | | |
 27 | | | | 
-28 | | | | 
+28 | Tito Julio González Padial | Equipo 10 | https://github.com/tgp034 | 
 29 | | | |
 Prof | Joaquin | hmis2021 | http://github.com/ualjjcanada  |
 
