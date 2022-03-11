@@ -9,10 +9,10 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 3 | Asama Muhammad Farman| Equipo 9 | https://github.com/asamafarman | 
 4 | José Luis Garrido Castro | Equipo 4 | https://github.com/selugc4 | 
 5 | Alberto Arroyo Cárdenas | Equipo 2 | https://github.com/aac572 | 
-6 | | | |
+6 | Ángel Joaquín GARCÍA MÁRQUEZ | Equipo 2| https://github.com/agarmar |
 7 | Aleejandro Civera Blanco| Equipo 1 | acb083| 
 8 |Daniel Atienza Rubi | Equipo 8 |https://github.com/dar779 | 
-9 | Miguel Hidalgo | Equipo 10 | https://github.com/mhm396 |
+9 | Miguel Hidalgo | Equipo 10 | https://gi thub.com/mhm396 |
 10 | Miguel Torres | Equipo 7 | https://github.com/mta162 | 
 11 | Mariano Fernández | Equipo11 | https://github.com/mfa645 | 
 12 | Adrian Camacho | Equipo 11 | https://github.com/acc728 | | 
@@ -25,13 +25,13 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 19 | | | |
 20 | David Montesinos | | mdmontesinos | 
 21 | | | | 
-22 | Adrián Rodríguez Manzano | Equipo 3 | https://github.com/adrianrm00 | 
+22 | | | | 
 23 | | | | 
 24 | | | | 
 25 | | | | 
 26 | Matías García Gimeno | Equipo 7 | mgg709 |
 27 | | | | 
-28 | Tito Julio González Padial | Equipo 10 | https://github.com/tgp034 | 
+28 | | | | 
 29 | | | |
 Prof | Joaquin | hmis2021 | http://github.com/ualjjcanada  |
 
