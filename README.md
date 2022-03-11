@@ -12,7 +12,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 6 | | | |
 7 | | | | 
 8 |Daniel Atienza Rubi | Equipo 8 |https://github.com/dar779 | 
-9 | | | |
+9 | Miguel Hidalgo | Equipo 10 | https://github.com/mhm396 |
 10 | Miguel Torres | Equipo 7 | https://github.com/mta162 | 
 11 | Mariano Fernández | Equipo11 | https://github.com/mfa645 | 
 12 | Adrian Camacho | Equipo 11 | https://github.com/acc728 | | 
