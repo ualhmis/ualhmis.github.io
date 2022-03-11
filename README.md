@@ -20,7 +20,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 14 | Ruth Maria Rodrigurz Simon | PuertasRodriguez | rk400 | 
 15 | | | | 
 16 | Francisco Javier Mota López | Equipo 10 | https://github.com/ualfranjavierml |
-17 | | | | 
+17 | Tito Julio González Padial | Equipo 10 | https://github.com/tgp034 | 
 18 | | | | 
 19 | | | |
 20 | David Montesinos | | mdmontesinos | 
