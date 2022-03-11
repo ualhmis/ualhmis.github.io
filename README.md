@@ -10,7 +10,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 4 | José Luis Garrido Castro | Equipo 4 | https://github.com/selugc4 | 
 5 | | | | 
 6 | | | |
-7 | | | | 
+7 | Aleejandro Civera Blanco| Equipo 1 | acb083| 
 8 |Daniel Atienza Rubi | Equipo 8 |https://github.com/dar779 | 
 9 | | | |
 10 | Miguel Torres | Equipo 7 | https://github.com/mta162 | 
