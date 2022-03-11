@@ -18,7 +18,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 12 | Adrian Camacho | Equipo 11 | https://github.com/acc728 | | 
 13 | | | | 
 14 | Ruth Maria Rodrigurz Simon | PuertasRodriguez | rk400 | 
-15 | | | | 
+15 | Tito Julio González Padial | Equipo 10 | https://github.com/tgp034 | 
 16 | Francisco Javier Mota López | Equipo 10 | https://github.com/ualfranjavierml |
 17 | María del Carmen Gómez Pastor | Equipo 1 | https://github.com/MGomezPastor
 18 | | | | 
