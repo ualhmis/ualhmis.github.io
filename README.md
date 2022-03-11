@@ -29,7 +29,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 23 | | | | 
 24 | | | | 
 25 | | | | 
-26 | | | |
+26 | Matías García Gimeno | Equipo 7 | mgg709 |
 27 | | | | 
 28 | | | | 
 29 | | | |
