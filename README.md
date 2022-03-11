@@ -5,7 +5,7 @@
 id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo 
 -- | ----------------- | ----------------- | ----------------- | -----------------
 1 | Jesús Cazorla González| Equipo 4 | https://github.com/jesuscazorla | 
-2 | | | | 
+2 | Antonio González Capel | Equipo 9 | https://github.com/DoxtorDoz | 
 3 | | | | 
 4 | José Luis Garrido Castro | Equipo 4 | https://github.com/selugc4 | 
 5 | | | | 
@@ -20,7 +20,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 14 | Ruth Maria Rodrigurz Simon | PuertasRodriguez | rk400 | 
 15 | | | | 
 16 | Francisco Javier Mota López | Equipo 10 | https://github.com/ualfranjavierml |
-17 | | | | 
+17 | María del Carmen Gómez Pastor | Equipo 1 | https://github.com/MGomezPastor
 18 | | | | 
 19 | | | |
 20 | David Montesinos | | mdmontesinos | 
