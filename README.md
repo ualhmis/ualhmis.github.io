@@ -17,8 +17,8 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 11 | Mariano Fernández | Equipo11 | https://github.com/mfa645 | 
 12 | Adrian Camacho | Equipo 11 | https://github.com/acc728 | | 
 13 | | | | 
-14 | Ruth Maria Rodriguez Simon | Equipo 6 | rk400 | 
-15 | Jose Puertas Alonso | Equipo 6| | 
+14 | Ruth Maria Rodriguez Simon | Equipo 6 | https://github.com/rk400 | 
+15 | Jose Puertas Alonso | Equipo 6| https://github.com/JosePuertasAlonso | 
 16 | Francisco Javier Mota López | Equipo 10 | https://github.com/ualfranjavierml |
 17 | María del Carmen Gómez Pastor | Equipo 1 | https://github.com/MGomezPastor
 18 | | | | 
