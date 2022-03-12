@@ -26,7 +26,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 20 | David Montesinos | | mdmontesinos | 
 21 | | | | 
 22 | | | | 
-23 | Antonio Jesús Cano Andreu| Equipo 16 | https://github.com/aca062 | 
+23 | | | | 
 24 | | | | 
 25 | | | | 
 26 | Matías García Gimeno | Equipo 7 | mgg709 |
