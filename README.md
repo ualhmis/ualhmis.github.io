@@ -21,7 +21,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 15 | Jose Puertas Alonso | Equipo 6| https://github.com/JosePuertasAlonso | 
 16 | Francisco Javier Mota López | Equipo 10 | https://github.com/ualfranjavierml |
 17 | María del Carmen Gómez Pastor | Equipo 1 | https://github.com/MGomezPastor
-18 | | | | 
+18 | Jose Luis Portillo Martín | Equipo 5 | https://github.com/JLPortillo-UAL | 
 19 | | | |
 20 | David Montesinos | | mdmontesinos | 
 21 | | | | 
