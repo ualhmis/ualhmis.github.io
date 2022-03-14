@@ -30,7 +30,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 24 | | | | 
 25 | | | | 
 26 | Matías García Gimeno | Equipo 7 | mgg709 |
-27 | | | | 
+27 | Joaquin Morales Nieto | Equipo 5 | https://github.com/jmn034-ual |
 28 | Tito Julio González Padial | Equipo 10 | https://github.com/tgp034 | 
 29 | | | |
 Prof | Joaquin | hmis2021 | http://github.com/ualjjcanada  |
