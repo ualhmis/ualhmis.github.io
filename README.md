@@ -28,7 +28,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 22 | Adrián Rodríguez Manzano | Equipo 3 | https://github.com/adrianrm00 | 
 23 | Jaime David García Ortiz | Equipo 3 | https://github.com/jgo962 | 
 24 | | | | 
-25 | | | | 
+25 |David Silvente Galera |Equipo 16 |https://github.com/Dsg503 | 
 26 | Matías García Gimeno | Equipo 7 | mgg709 |
 27 | | | | 
 28 | Tito Julio González Padial | Equipo 10 | https://github.com/tgp034 | 
