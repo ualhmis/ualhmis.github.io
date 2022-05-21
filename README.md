@@ -23,7 +23,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 17 | | | | 
 18 | | | | 
 19 | | | |
-20 | David Montesinos | | mdmontesinos | 
+20 | David Montesinos | Equipo 7 | [mdmontesinos](https://github.com/mdmontesinos) | https://github.com/UAL-HMIS-Equipo7/website
 21 | | | | 
 22 | | | | 
 23 | | | | 
