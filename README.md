@@ -24,15 +24,13 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 18 | Jose Luis Portillo Martín | Equipo 5 | https://github.com/JLPortillo-UAL | 
 19 | Alejandro Tomás Soto Meca | Equipo 2 | https://github.com/AlejandroTSoto |
 20 | David Montesinos | Equipo 7 | [mdmontesinos](https://github.com/mdmontesinos) | https://github.com/UAL-HMIS-Equipo7/website
-21 | | | | 
-22 | Adrián Rodríguez Manzano | Equipo 3 | https://github.com/adrianrm00 | 
-23 | Jaime David García Ortiz | Equipo 3 | https://github.com/jgo962 | 
-24 | | | | 
-25 |David Silvente Galera |Equipo 16 |https://github.com/Dsg503 | 
-26 | Matías García Gimeno | Equipo 7 | mgg709 |
-27 | Joaquin Morales Nieto | Equipo 5 | https://github.com/jmn034-ual |
-28 | Tito Julio González Padial | Equipo 10 | https://github.com/tgp034 | 
-29 | | | |
+21 | Adrián Rodríguez Manzano | Equipo 3 | https://github.com/adrianrm00 | 
+22 | Jaime David García Ortiz | Equipo 3 | https://github.com/jgo962 | 
+23 |David Silvente Galera |Equipo 16 |https://github.com/Dsg503 | 
+24 | Matías García Gimeno | Equipo 7 | mgg709 |
+25 | Joaquin Morales Nieto | Equipo 5 | https://github.com/jmn034-ual |
+26 | Tito Julio González Padial | Equipo 10 | https://github.com/tgp034 | 
+27 | Joaquín Murcia Escánez | Equipo 14 | https://github.com/jme418 |
 Prof | Joaquin | hmis2021 | http://github.com/ualjjcanada  |
 
 
