@@ -23,6 +23,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 17 | | | | 
 18 | Sokaina Baouch | GalvezRosenovBaouch | https://sb575.github.io/ | 
 19 |Alejandro Tomás Soto Meca |Equipo de prácticas 2 |https://alejandrotsoto.github.io/ | 
+.
 
 
 =======
