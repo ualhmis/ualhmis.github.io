@@ -14,7 +14,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub
 8	|	F. S. Pedro 	|	Equipo ...	|	https://github.com/...  
 9	|	G. S. Adrian 	|	Equipo 13	|	https://github.com/ags000  
 10	|	G. A. Cristina 	|	Equipo 26	|	https://github.com/cga353  
-11	|	G. Luca Daniel 	|	Equipo ...	|	https://github.com/...  
+11	|	G. Luca Daniel 	|	Equipo 13	|	https://github.com/lg330  
 12	|	G. G. Cristian 	|	Equipo 10	|	https://github.com/cgg734  
 13	|	G. Kacper 	|	Equipo 19	|	https://github.com/kg544inl  
 14	|	G. C. Francisco De Borja Jose 	|	Equipo 15	|	https://github.com/ualfranborjagc  
