@@ -24,7 +24,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub
 18	|	J. Anita 	|	Equipo ...	|	https://github.com/...  
 19	|	L. G. Daniel 	|	Equipo 22	|	https://github.com/dlg383  
 20	|	L. P. Maria 	|	Equipo 10	|	https://github.com/mlp642 
-21	|	M. I. Alejandro 	|	Equipo ...	|	https://github.com/...  
+21	|	M. I. Alejandro 	|	Equipo 10	|	https://github.com/ami103 
 22	|	M. T. Alejandro 	|	Equipo 16	|	https://github.com/amt871  
 23	|	M. G. Eduardo 	|	Equipo 22	|	https://github.com/emg842 
 24	|	M. G. Juan Raul 	|	Equipo 11	|	https://github.com/jmg061  
