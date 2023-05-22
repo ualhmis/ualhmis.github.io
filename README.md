@@ -28,7 +28,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub
 22	|	M. T. Alejandro 	|	Equipo 16	|	https://github.com/amt871  
 23	|	M. G. Eduardo 	|	Equipo 22	|	https://github.com/emg842 
 24	|	M. G. Juan Raul 	|	Equipo 11	|	https://github.com/jmg061  
-25	|	M. A. Miguel Angel 	|	Equipo ...	|	https://github.com/MoncadaAlvarezMiguelAngel  
+25	|	M. A. Miguel Angel 	|	Equipo 22	|	https://github.com/MoncadaAlvarezMiguelAngel  
 26	|	M. S. Daniel 	|	Equipo 11	|	https://github.com/dms932 
 27	|	M. E. Joaquin 	|	Equipo 14	|	https://github.com/jme418
 28	|	N. L. Javier 	|	Equipo ...	|	https://github.com/...  
