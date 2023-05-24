@@ -21,7 +21,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub
 15	|	H. C. David 	|	Equipo 20	|	https://github.com/davinson19  
 16	|	I. Maciej 	|	Equipo 29	|	https://github.com/Maci33k  
 17	|	J. L. Antonio Jose 	|	Equipo 28	|	https://github.com/ajl618  
-18	|	J. Anita 	|	Equipo ...	|	https://github.com/...  
+18	|	J. Anita 	|	Equipo 29	|	https://github.com/nisia289  
 19	|	L. G. Daniel 	|	Equipo 22	|	https://github.com/dlg383  
 20	|	L. P. Maria 	|	Equipo 10	|	https://github.com/mlp642 
 21	|	M. I. Alejandro 	|	Equipo 10	|	https://github.com/ami103 
