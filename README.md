@@ -9,7 +9,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub
 3	|	B. P. Sarai 	|	Equipo 26	|	https://github.com/saraibesada  
 4	|	C. M. Carlos 	|	16	|	https://github.com/CarlosCarrion1998/  
 5	|	C. L. Javier 	|	Equipo 21	|	https://github.com/JCholbiL/
-6	|	D. Dawid 	|	Equipo ...	|	https://github.com/...  
+6	|	D. Dawid 	|	Equipo 19	|	https://github.com/Atropatos  
 7	|	E. H. Ilyass 	|	Equipo ...	|	https://github.com/...  
 8	|	F. S. Pedro 	|	Equipo 21	|	https://github.com/PedroFedz
 9	|	G. S. Adrian 	|	Equipo 13	|	https://github.com/ags000  
