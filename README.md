@@ -2,7 +2,9 @@
 
 ## Páginas de equipo HMIS 2024
 
-_En construcción..._
+id | Nombre estudiante  | Equipo | Usuario GitHub 
+-- | ----------------- | ----------------- | ----------------- 
+1	|	M. C. Maria 	|	Equipo 11	|	https://github.com/mmc303 
 
 
 ## Páginas de cursos anteriores
