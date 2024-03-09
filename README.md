@@ -32,7 +32,7 @@ _En construcción..._
 | | | | |
 13	|	F. M. Jesus	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-14	|	G. C. Alejandro	|	Equipo …	|	https://github.com/...  	| | | | |
+14	|	G. C. Alejandro	|	Equipo 05	        https://github.com/alexcraviotto/ualhmis.github.io  	alexcraviotto
 | | | | |
 15	|	G. D. Victor	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
