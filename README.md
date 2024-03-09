@@ -68,7 +68,7 @@ _En construcción..._
 | | | | |
 31	|	S. A. Lucia	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-32	|	S. S. Miguel Angel	|	Equipo …	|	https://github.com/...  	| | | | |
+32	|	S. S. Miguel Angel	|	Equipo …	| https://miguel07alm.github.io/mss245.github.io/ 	| | | | |
 | | | | |
 33	|	S. Victor C.	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
