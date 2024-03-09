@@ -48,7 +48,7 @@ _En construcción..._
 | | | | |
 21	|	M. C. Maria	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-22	|	M. S. Paula	|	Equipo …	|	https://github.com/...  	| | | | |
+22	|	M. S. Paula	|	Equipo 12	|	https://github.com/pms863  	| | | | |
 | | | | |
 23	|	M. Ismail	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
