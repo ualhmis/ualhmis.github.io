@@ -26,7 +26,7 @@ _En construcción..._
 | | | | |
 10	|	F. B. Ayoub	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-11	|	F. D. Victor	|	Equipo …	|	https://github.com/...  	| | | | |
+11	|	F. D. Victor	|	Equipo 01	|	https://github.com/vfd003-ual  	| | | | |
 | | | | |
 12	|	F. L. Samuel S.	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
