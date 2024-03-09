@@ -62,7 +62,7 @@ _En construcción..._
 | | | | |
 28	|	R. V. Carlos	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-29	|	S. H. Naoufal	|	Equipo …	|	https://github.com/...  	| | | | |
+29	|	S. H. Naoufal	|	Equipo 14	|	https://github.com/nsh255  	| | | | |
 | | | | |
 30	|	S. A. Daniel	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
