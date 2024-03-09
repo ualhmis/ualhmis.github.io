@@ -60,7 +60,7 @@ _En construcción..._
 | | | | |
 27	|	R. S. Jose Carlos	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-28	|	R. V. Carlos	|	Equipo …	|	https://github.com/...  	| | | | |
+28	|	R. V. Carlos	|	Equipo 13	|	https://github.com/crv520-1/hmis-repo01.git  	| | | | |
 | | | | |
 29	|	S. H. Naoufal	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
