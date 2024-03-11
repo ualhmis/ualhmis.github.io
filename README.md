@@ -38,7 +38,7 @@ _En construcción..._
 | | | | |
 16	|	G. R. Pablo	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-17	|	H. Maciej K.	|	Equipo …	|	https://github.com/...  	| | | | |
+17	|	H. Maciej K.	|	Equipo 6	|	https://github.com/mherman262  	| | | | |
 | | | | |
 18	|	J. G. David	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
