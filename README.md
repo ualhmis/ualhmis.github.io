@@ -54,7 +54,7 @@ _En construcción..._
 | | | | |
 24	|	P. V. Manuel	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-25	|	P. C. Luis A.	|	Equipo …	|	https://github.com/...  	| | | | |
+25	|	P. C. Luis A.	|	Equipo 01	|	https://github.com/lpc864-ual  	| | | | |
 | | | | |
 26	|	R. Q. Alberto	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
