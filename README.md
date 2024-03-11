@@ -20,7 +20,7 @@ _En construcción..._
 | | | | |
 7	|	E. H. Ilyass	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-8	|	E. J. Anass	|	Equipo …	|	https://github.com/...  	| | | | |
+8	|	E. J. Anass	|	Equipo 07	|	https://github.com/aek676/hmis-repo01  	| | | | |
 | | | | |
 9	|	E. R. Abdelaziz	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
