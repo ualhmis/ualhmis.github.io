@@ -30,7 +30,7 @@ _En construcción..._
 | | | | |
 12	|	F. L. Samuel S.	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-13	|	F. M. Jesus	|	Equipo …	|	https://github.com/...  	| | | | |
+13	|	F. M. Jesus	|	Equipo 08	|	https://github.com/jfm112INSO  	| | | | |
 | | | | |
 14	|	G. C. Alejandro	|	Equipo 05	  |     https://github.com/alexcraviotto 	| | | | |
 | | | | |
