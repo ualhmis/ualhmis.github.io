@@ -64,7 +64,7 @@ _En construcción..._
 | | | | |
 29	|	S. H. Naoufal	|	Equipo 14	|	https://github.com/nsh255  	| | | | |
 | | | | |
-30	|	S. A. Daniel	|	Equipo …	|	https://github.com/...  	| | | | |
+30	|	S. A. Daniel	|	Equipo 13	|	https://github.com/dsa069  	| | | | |
 | | | | |
 31	|	S. A. Lucia	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
