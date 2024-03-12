@@ -76,7 +76,7 @@ _En construcción..._
 | | | | |
 35	|	T. R. Angel	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-36	|	U. Krzysztof M.	|	Equipo …	|	https://github.com/...  	| | | | |
+36	|	U. Krzysztof M.	|	Equipo 06	|	https://github.com/ku232  	| | | | |
 | | | | |
 37	|	V. H. Juan D D.	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
