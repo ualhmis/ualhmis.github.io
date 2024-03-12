@@ -46,7 +46,7 @@ _En construcción..._
 | | | | |
 20	|	M. M. David	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-21	|	M. C. Maria	|	Equipo …	|	https://github.com/...  	| | | | |
+21	|	M. C. Maria	|	Equipo 11	|	https://github.com/mmc303  	| | | | |
 | | | | |
 22	|	M. S. Paula	|	Equipo 12	|	https://github.com/pms863  	| | | | |
 | | | | |
