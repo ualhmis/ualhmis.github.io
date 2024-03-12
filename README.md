@@ -44,7 +44,7 @@ _En construcción..._
 | | | | |
 19	|	L. M. Israel	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-20	|	M. M. David	|	Equipo …	|	https://github.com/...  	| | | | |
+20	|	M. M. David	|	Equipo 03	|	https://github.com/dm655  	| | | | |
 | | | | |
 21	|	M. C. Maria	|	Equipo 11	|	https://github.com/mmc303  	| | | | |
 | | | | |
