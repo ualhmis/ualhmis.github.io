@@ -8,7 +8,7 @@ _En construcción..._
 |----|--------------------|--------|----------------| 
 1	|	A. E. Ana Bella	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-2	|	B. M. Lucas	|	Equipo …	|	https://github.com/...  	| | | | |
+2	|	B. M. Lucas	|	Equipo 23	|	https://github.com/lbm410  🚬	| | | | |
 | | | | |
 3	|	C. R. Antonio	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
