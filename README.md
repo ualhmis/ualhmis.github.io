@@ -36,7 +36,7 @@ _En construcción..._
 | | | | |
 15	|	G. D. Victor	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-16	|	G. R. Pablo	|	Equipo …	|	https://github.com/...  	| | | | |
+16	|	G. R. Pablo	|	Equipo 08	|	https://github.com/pgr866  	| | | | |
 | | | | |
 17	|	H. Maciej K.	|	Equipo 6	|	https://github.com/mherman262  	| | | | |
 | | | | |
