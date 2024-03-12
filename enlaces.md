@@ -7,7 +7,7 @@
 
 https://github.com/dawidh15/dinPob/wiki/04-Gu%C3%ADa-para-hacer-un-Pull-Request
 
-En esta guía, donde habla de _R Studio_ se puede sustituir por cualquier IDE o cliente Git (Git Bash).
+En esta guía, donde habla de _R Studio_ se puede sustituir por cualquier IDE o cliente Git (Git Bash). 
 
 Y en el comando para sincronizar ramas locales con ramas remotas:
 
