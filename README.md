@@ -58,7 +58,7 @@ _En construcción..._
 | | | | |
 26	|	R. Q. Alberto	|	Equipo 14	|	https://github.com/arq658  	| | | | |
 | | | | |
-27	|	R. S. Jose Carlos	|	Equipo …	|	https://github.com/...  	| | | | |
+27	|	R. S. Jose Carlos	|	Equipo 11	|	https://github.com/jrs407  	| | | | |
 | | | | |
 28	|	R. V. Carlos	|	Equipo 13	|	https://github.com/crv520-1  	| | | | |
 | | | | |
