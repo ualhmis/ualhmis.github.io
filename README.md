@@ -66,7 +66,7 @@ _En construcción..._
 | | | | |
 30	|	S. A. Daniel	|	Equipo 13	|	https://github.com/dsa069  	| | | | |
 | | | | |
-31	|	S. A. Lucia	|	Equipo …	|	https://github.com/...  	| | | | |
+31	|	S. A. Lucia	|	Equipo 12	|	https://github.com/lsa180  	| | | | |
 | | | | |
 32	|	S. S. Miguel Angel	|	Equipo 05	| https://github.com/miguel07alm 	| | | | |
 | | | | |
