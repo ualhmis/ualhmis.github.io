@@ -56,7 +56,7 @@ _En construcción..._
 | | | | |
 25	|	P. C. Luis A.	|	Equipo 01	|	https://github.com/lpc864-ual  	| | | | |
 | | | | |
-26	|	R. Q. Alberto	|	Equipo …	|	https://github.com/...  	| | | | |
+26	|	R. Q. Alberto	|	Equipo 14	|	https://github.com/arq658  	| | | | |
 | | | | |
 27	|	R. S. Jose Carlos	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
