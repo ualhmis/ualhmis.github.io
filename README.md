@@ -72,7 +72,7 @@ _En construcción..._
 | | | | |
 33	|	S. Victor C.	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-34	|	S. Franciszek	|	Equipo …	|	https://github.com/...  	| | | | |
+34	|	S. Franciszek	|	Equipo 06	|	https://github.com/fs317  	| | | | |
 | | | | |
 35	|	T. R. Angel	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
