@@ -6,7 +6,7 @@ _En construcción..._
 
 | id | Nombre estudiante | Equipo | Usuario GitHub |
 |----|--------------------|--------|----------------| 
-1	|	A. E. Ana Bella	|	Equipo …	|	https://github.com/...  	| | | | |
+1	|	A. E. Ana Bella	|	Equipo 07	|	https://github.com/aek676/hmis-repo01  	| | | | |
 | | | | |
 2	|	B. M. Lucas	|	Equipo 23	|	https://github.com/lbm410  🚬	| | | | |
 | | | | |
