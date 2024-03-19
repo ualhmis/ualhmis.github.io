@@ -10,7 +10,7 @@ _En construcción..._
 | | | | |
 2	|	B. M. Lucas	|	Equipo 23	|	https://github.com/lbm410  🚬	| | | | |
 | | | | |
-3	|	C. R. Antonio	|	Equipo …	|	https://github.com/...  	| | | | |
+3	|	C. R. Antonio	|	Equipo 04	|	https://github.com/acr360 	| | | | |
 | | | | |
 4	|	C. F. David	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
