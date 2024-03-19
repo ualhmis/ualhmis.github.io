@@ -52,7 +52,7 @@ _En construcción..._
 | | | | |
 23	|	M. Ismail	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-24	|	P. V. Manuel	|	Equipo …	|	https://github.com/...  	| | | | |
+24	|	P. V. Manuel	|	Equipo 12	|	https://github.com/mpv111  	| | | | |
 | | | | |
 25	|	P. C. Luis A.	|	Equipo 01	|	https://github.com/lpc864-ual  	| | | | |
 | | | | |
