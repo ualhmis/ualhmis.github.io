@@ -70,7 +70,7 @@ _En construcción..._
 | | | | |
 32	|	S. S. Miguel Angel	|	Equipo 05	| https://github.com/miguel07alm 	| | | | |
 | | | | |
-33	|	S. Victor C.	|	Equipo …	|	https://github.com/...  	| | | | |
+33	|	S. Victor C.	|	Equipo 20	|	https://github.com/vlcoo  	| | | | |
 | | | | |
 34	|	S. Franciszek	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
