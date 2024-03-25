@@ -14,7 +14,7 @@ _En construcción..._
 | | | | |
 4	|	C. F. David	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-5	|	C. C. Diego	|	Equipo …	|	https://github.com/...  	| | | | |
+5	|	C. C. Diego	|	Equipo 23	|	https://github.com/dcc0230  	| | | | |
 | | | | |
 6	|	C. C. Juan Jose	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
