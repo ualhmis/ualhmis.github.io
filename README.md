@@ -1,8 +1,6 @@
-## Herramientas y Metodos IS
+## Herramientas y Métodos IS
 
 ## Páginas de equipo HMIS 2024
-
-_En construcción..._
 
 | id | Nombre estudiante | Equipo | Usuario GitHub |
 |----|--------------------|--------|----------------| 
@@ -94,3 +92,7 @@ Prof | C. M. J. Joaquin | ualhmis | http://github.com/ualjjcanada  | | | | |
 
 ## Más info
 * [Enlaces de interés](enlaces.md)
+
+
+## Noticias relacionadas
+* [Noticias](noticias.md)
