@@ -34,7 +34,7 @@ _En construcción..._
 | | | | |
 14	|	G. C. Alejandro	|	Equipo 05	  |     https://github.com/alexcraviotto 	| | | | |
 | | | | |
-15	|	G. D. Victor	|	Equipo …	|	https://github.com/...  	| | | | |
+15	|	G. D. Victor	|	Equipo 03	|	https://github.com/vgd937-ual  	| | | | |
 | | | | |
 16	|	G. R. Pablo	|	Equipo 08	|	https://github.com/pgr866  	| | | | |
 | | | | |
