@@ -20,7 +20,7 @@
 | | | | |
 8	|	E. J. Anass	|	Equipo 07	|	https://github.com/aek676/hmis-repo01  	| | | | |
 | | | | |
-9	|	E. R. Abdelaziz	|	Equipo …	|	https://github.com/...  	| | | | |
+9	|	E. R. Abdelaziz	|	Equipo 23	|	https://github.com/aer234  	| | | | |
 | | | | |
 10	|	F. B. Ayoub	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
