@@ -26,7 +26,7 @@
 | | | | |
 11	|	F. D. Victor	|	Equipo 01	|	https://github.com/vfd003-ual  	| | | | |
 | | | | |
-12	|	F. L. Samuel S.	|	Equipo …	|	https://github.com/...  	| | | | |
+12	|	F. L. Samuel S.	|	Equipo 10	|	https://github.com/sfl560  	| | | | |
 | | | | |
 13	|	F. M. Jesus	|	Equipo 08	|	https://github.com/jfm112INSO  	| | | | |
 | | | | |
