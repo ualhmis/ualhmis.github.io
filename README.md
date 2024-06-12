@@ -20,7 +20,7 @@
 | | | | |
 8	|	E. J. Anass	|	Equipo 07	|	https://github.com/aek676  	| | | | |
 | | | | |
-9	|	E. R. Abdelaziz	|	Equipo …	|	https://github.com/...  	| | | | |
+9	|	E. R. Abdelaziz	|	Equipo 23	|	https://github.com/aer234  	| | | | |
 | | | | |
 10	|	F. B. Ayoub	|	Equipo 03	|	https://github.com/afb356-ual  	| | | | |
 | | | | |
