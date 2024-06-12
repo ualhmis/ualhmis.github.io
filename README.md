@@ -22,7 +22,7 @@
 | | | | |
 9	|	E. R. Abdelaziz	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-10	|	F. B. Ayoub	|	Equipo …	|	https://github.com/...  	| | | | |
+10	|	F. B. Ayoub	|	Equipo 03	|	https://github.com/afb356-ual  	| | | | |
 | | | | |
 11	|	F. D. Victor	|	Equipo 01	|	https://github.com/vfd003-ual  	| | | | |
 | | | | |
