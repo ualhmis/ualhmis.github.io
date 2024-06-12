@@ -72,7 +72,7 @@
 | | | | |
 34	|	S. Franciszek	|	Equipo 06	|	https://github.com/fs317  	| | | | |
 | | | | |
-35	|	T. R. Angel	|	Equipo …	|	https://github.com/...  	| | | | |
+35	|	T. R. Angel	|	Equipo 10	|	https://github.com/atr232  	| | | | |
 | | | | |
 36	|	U. Krzysztof M.	|	Equipo 06	|	https://github.com/ku232  	| | | | |
 | | | | |
