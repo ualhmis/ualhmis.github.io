@@ -4,84 +4,85 @@
 
 | id | Nombre estudiante | Equipo | Usuario GitHub |
 |----|--------------------|--------|----------------| 
-1	|	A. E. Ana Bella	|	Equipo 07	|	https://github.com/aek676/hmis-repo01  	| | | | |
+| 1	 | 	A. F. ALEJANDRO	 |  |  |
 | | | | |
-2	|	B. M. Lucas	|	Equipo 23	|	https://github.com/lbm410  🚬	| | | | |
+| 2	 | 	C. R. ANTONIO	 |  |  |
 | | | | |
-3	|	C. R. Antonio	|	Equipo 04	|	https://github.com/acr360 	| | | | |
+| 3	 | 	C. C. DIEGO	 |  |  |
 | | | | |
-4	|	C. F. David	|	Equipo …	|	https://github.com/...  	| | | | |
+| 4	 | 	C. M. MARY-ANNE	 |  |  |
 | | | | |
-5	|	C. C. Diego	|	Equipo 23	|	https://github.com/dcc0230  	| | | | |
+| 5	 | 	D. A. PABLO	 |  |  |
 | | | | |
-6	|	C. C. Juan Jose	|	Equipo …	|	https://github.com/...  	| | | | |
+| 6	 | 	D. V. OLIVER	 |  |  |
 | | | | |
-7	|	E. H. Ilyass	|	Equipo …	|	https://github.com/...  	| | | | |
+| 7	 | 	E. R. ABDELAZIZ	 |  |  |
 | | | | |
-8	|	E. J. Anass	|	Equipo 07	|	https://github.com/aek676/hmis-repo01  	| | | | |
+| 8	 | 	E. M. JUAN FRANCISCO	 |  |  |
 | | | | |
-9	|	E. R. Abdelaziz	|	Equipo …	|	https://github.com/...  	| | | | |
+| 9	 | 	F. M. ISMAEL	 |  |  |
 | | | | |
-10	|	F. B. Ayoub	|	Equipo …	|	https://github.com/...  	| | | | |
+| 10	 | 	F. R. JUAN JOSE	 |  |  |
 | | | | |
-11	|	F. D. Victor	|	Equipo 01	|	https://github.com/vfd003-ual  	| | | | |
+| 11	 | 	G. G. ANTONIO	 |  |  |
 | | | | |
-12	|	F. L. Samuel S.	|	Equipo …	|	https://github.com/...  	| | | | |
+| 12	 | 	G. M. JESUS DAVID	 |  |  |
 | | | | |
-13	|	F. M. Jesus	|	Equipo 08	|	https://github.com/jfm112INSO  	| | | | |
+| 13	 | 	G. V. SERGIO	 |  |  |
 | | | | |
-14	|	G. C. Alejandro	|	Equipo 05	  |     https://github.com/alexcraviotto 	| | | | |
+| 14	 | 	G. M. JORGE	 |  |  |
 | | | | |
-15	|	G. D. Victor	|	Equipo …	|	https://github.com/...  	| | | | |
+| 15	 | 	G. P. DAVID	 |  |  |
 | | | | |
-16	|	G. R. Pablo	|	Equipo 08	|	https://github.com/pgr866  	| | | | |
+| 16	 | 	G. Q. ALEX	 |  |  |
 | | | | |
-17	|	H. Maciej K.	|	Equipo 6	|	https://github.com/mherman262  	| | | | |
+| 17	 | 	M. G. ADRIAN	 |  |  |
 | | | | |
-18	|	J. G. David	|	Equipo …	|	https://github.com/...  	| | | | |
+| 18	 | 	M. G. RAUL	 |  |  |
 | | | | |
-19	|	L. M. Israel	|	Equipo …	|	https://github.com/...  	| | | | |
+| 19	 | 	M. M. ADRIAN FIKRET	 |  |  |
 | | | | |
-20	|	M. M. David	|	Equipo 03	|	https://github.com/dm655  	| | | | |
+| 20	 | 	M. S. MIGUEL ANGEL	 |  |  |
 | | | | |
-21	|	M. C. Maria	|	Equipo 11	|	https://github.com/mmc303  	| | | | |
+| 21	 | 	M. L. JULIAN	 |  |  |
 | | | | |
-22	|	M. S. Paula	|	Equipo 12	|	https://github.com/pms863  	| | | | |
+| 22	 | 	M. I. JOSE	 |  |  |
 | | | | |
-23	|	M. Ismail	|	Equipo …	|	https://github.com/...  	| | | | |
+| 23	 | 	N. M. ANTONIO RAFAEL	 |  |  |
 | | | | |
-24	|	P. V. Manuel	|	Equipo 12	|	https://github.com/mpv111  	| | | | |
+| 24	 | 	N. R. GIOVANNA YAMILE	 |  |  |
 | | | | |
-25	|	P. C. Luis A.	|	Equipo 01	|	https://github.com/lpc864-ual  	| | | | |
+| 25	 | 	O. M. ANTONIO	 |  |  |
 | | | | |
-26	|	R. Q. Alberto	|	Equipo 14	|	https://github.com/arq658  	| | | | |
+| 26	 | 	O. R. ALEJANDRO	 |  |  |
 | | | | |
-27	|	R. S. Jose Carlos	|	Equipo 11	|	https://github.com/jrs407  	| | | | |
+| 27	 | 	P. V. MANUEL	 |  |  |
 | | | | |
-28	|	R. V. Carlos	|	Equipo 13	|	https://github.com/crv520-1  	| | | | |
+| 28	 | 	P. F. FRANCO SERGIO	 |  |  |
 | | | | |
-29	|	S. H. Naoufal	|	Equipo 14	|	https://github.com/nsh255  	| | | | |
+| 29	 | 	P. G. JOSE ESTEBAN	 |  |  |
 | | | | |
-30	|	S. A. Daniel	|	Equipo 13	|	https://github.com/dsa069  	| | | | |
+| 30	 | 	Q. S. MANUEL	 |  |  |
 | | | | |
-31	|	S. A. Lucia	|	Equipo 12	|	https://github.com/lsa180  	| | | | |
+| 31	 | 	R. G. ABEL	 |  |  |
 | | | | |
-32	|	S. S. Miguel Angel	|	Equipo 05	| https://github.com/miguel07alm 	| | | | |
+| 32	 | 	R. A. ANDRES	 |  |  |
 | | | | |
-33	|	S. Victor C.	|	Equipo 20	|	https://github.com/vlcoo  	| | | | |
+| 33	 | 	S. H. JOSE ANTONIO	 |  |  |
 | | | | |
-34	|	S. Franciszek	|	Equipo 06	|	https://github.com/fs317  	| | | | |
+| 34	 | 	S. B. FRANCISCO	 |  |  |
 | | | | |
-35	|	T. R. Angel	|	Equipo …	|	https://github.com/...  	| | | | |
+| 35	 | 	T. R. ANGEL	 |  |  |
 | | | | |
-36	|	U. Krzysztof M.	|	Equipo 06	|	https://github.com/ku232  	| | | | |
+| 36	 | 	V. U. VICTOR	 |  |  |
 | | | | |
-37	|	V. H. Juan D D.	|	Equipo …	|	https://github.com/...  	| | | | |
+| 37	 | 	V. H. JUAN DE DIOS	 |  |  |
 | | | | |
-Prof | C. M. J. Joaquin | ualhmis | http://github.com/ualjjcanada  | | | | |
+Prof | C. M. J. Joaquin | ualhmis | http://github.com/ualjjcanada  |
 
 
 ## Páginas de cursos anteriores
+* [HMIS 2024](index2024.md)
 * [HMIS 2023](index2023.md)
 * [HMIS 2022](index2022.md)
 * [HMIS 2021](index2021.md)
