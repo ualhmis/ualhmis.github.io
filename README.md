@@ -62,7 +62,7 @@
 | | | | |
 | 29	 | 	P. G. JOSE ESTEBAN	 |  |  |
 | | | | |
-| 30	 | 	Q. S. MANUEL	 |  |  |
+| 30	 | 	Q. S. MANUEL	 | 2 | ualmqs562 |
 | | | | |
 | 31	 | 	R. G. ABEL	 |  |  |
 | | | | |
@@ -70,7 +70,7 @@
 | | | | |
 | 33	 | 	S. H. JOSE ANTONIO	 |  |  |
 | | | | |
-| 34	 | 	S. B. FRANCISCO	 |  |  |
+| 34	 | 	S. B. FRANCISCO	 | 2 | ualfsb392 |
 | | | | |
 | 35	 | 	T. R. ANGEL	 |  |  |
 | | | | |
