@@ -24,7 +24,7 @@
 | | | | |
 | 10	 | 	F. R. JUAN JOSE	 | Equipo 08 | ualjfr498 |
 | | | | |
-| 11	 | 	G. G. ANTONIO	 |  |  |
+| 11	 | 	G. G. ANTONIO	 | 13 | https://github.com/ualagg860 |
 | | | | |
 | 12	 | 	G. M. JESUS DAVID	 | Equipo 17 | SusjeJD |
 | | | | |
@@ -42,7 +42,7 @@
 | | | | |
 | 19	 | 	M. M. ADRIAN FIKRET	 |  |  |
 | | | | |
-| 20	 | 	M. S. MIGUEL ANGEL	 |  |  |
+| 20	 | 	M. S. MIGUEL ANGEL	 | 13 | https://github.com/ualmms172 |
 | | | | |
 | 21	 | 	M. L. JULIAN	 |  |  |
 | | | | |
