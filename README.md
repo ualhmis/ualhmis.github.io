@@ -38,7 +38,7 @@
 | | | | |
 | 17	 | 	M. G. ADRIAN	 |  |  |
 | | | | |
-| 18	 | 	M. G. RAUL	 |  |  |
+| 18	 | 	M. G. RAUL	 | Equipo 01 | https://github.com/ualrmg429 |
 | | | | |
 | 19	 | 	M. M. ADRIAN FIKRET	 |  |  |
 | | | | |
