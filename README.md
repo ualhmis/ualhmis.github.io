@@ -28,7 +28,7 @@
 | | | | |
 | 12	 | 	G. M. JESUS DAVID	 | Equipo 17 | SusjeJD |
 | | | | |
-| 13	 | 	G. V. SERGIO	 |  |  |
+| 13	 | 	G. V. SERGIO	 | Equipo 07 | sgv396 |
 | | | | |
 | 14	 | 	G. M. JORGE	 | 10 | jgm847 |
 | | | | |
