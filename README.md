@@ -1,6 +1,6 @@
 ## Herramientas y Métodos IS
 
-## Páginas de equipo HMIS 2024
+## Páginas de equipo HMIS 2025
 
 | id | Nombre estudiante | Equipo | Usuario GitHub |
 |----|--------------------|--------|----------------| 
