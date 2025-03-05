@@ -48,7 +48,7 @@
 | | | | |
 | 22	 | 	M. I. JOSE	 | 4 | ualjmi240 |
 | | | | |
-| 23	 | 	N. M. ANTONIO RAFAEL	 |  |  |
+| 23	 | 	N. M. ANTONIO RAFAEL	 | 10 | anm0200 |
 | | | | |
 | 24	 | 	N. R. GIOVANNA YAMILE	 |  |  |
 | | | | |
