@@ -66,7 +66,7 @@
 | | | | |
 | 31	 | 	R. G. ABEL	 | 3 | arg331 |
 | | | | |
-| 32	 | 	R. A. ANDRES	 |  |  |
+| 32	 | 	R. A. ANDRES	 | equipo 07 | ara584 |
 | | | | |
 | 33	 | 	S. H. JOSE ANTONIO	 |  |  |
 | | | | |
