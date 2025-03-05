@@ -60,7 +60,7 @@
 | | | | |
 | 28	 | 	P. F. FRANCO SERGIO	 |  |  |
 | | | | |
-| 29	 | 	P. G. JOSE ESTEBAN	 |  |  |
+| 29	 | 	P. G. JOSE ESTEBAN	 | 12 | jpg486 |
 | | | | |
 | 30	 | 	Q. S. MANUEL	 | 2 | ualmqs562 |
 | | | | |
@@ -74,7 +74,7 @@
 | | | | |
 | 35	 | 	T. R. ANGEL	 |  |  |
 | | | | |
-| 36	 | 	V. U. VICTOR	 |  |  |
+| 36	 | 	V. U. VICTOR	 | 12 | vvu981 |
 | | | | |
 | 37	 | 	V. H. JUAN DE DIOS	 |  |  |
 | | | | |
