@@ -10,7 +10,7 @@
 | | | | |
 | 3	 | 	C. C. DIEGO	 | 05 | dcc0230 |
 | | | | |
-| 4	 | 	C. M. MARY-ANNE	 |  |  |
+| 4	 | 	C. M. MARY-ANNE	 | Equipo 09 | ualmc312 |
 | | | | |
 | 5	 | 	D. A. PABLO	 |  |  |
 | | | | |
@@ -48,11 +48,11 @@
 | | | | |
 | 22	 | 	M. I. JOSE	 | 4 | ualjmi240 |
 | | | | |
-| 23	 | 	N. M. ANTONIO RAFAEL	 |  |  |
+| 23	 | 	N. M. ANTONIO RAFAEL	 | 10 | anm0200 |
 | | | | |
 | 24	 | 	N. R. GIOVANNA YAMILE	 |  |  |
 | | | | |
-| 25	 | 	O. M. ANTONIO	 |  |  |
+| 25	 | 	O. M. ANTONIO	 | Equipo 01 | https://github.com/aom387ISO |
 | | | | |
 | 26	 | 	O. R. ALEJANDRO	 |  |  |
 | | | | |
