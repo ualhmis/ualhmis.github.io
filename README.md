@@ -26,7 +26,7 @@
 | | | | |
 | 11	 | 	G. G. ANTONIO	 |  |  |
 | | | | |
-| 12	 | 	G. M. JESUS DAVID	 |  |  |
+| 12	 | 	G. M. JESUS DAVID	 | Equipo 17 | SusjeJD |
 | | | | |
 | 13	 | 	G. V. SERGIO	 |  |  |
 | | | | |
