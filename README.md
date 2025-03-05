@@ -64,7 +64,7 @@
 | | | | |
 | 30	 | 	Q. S. MANUEL	 | 2 | ualmqs562 |
 | | | | |
-| 31	 | 	R. G. ABEL	 |  |  |
+| 31	 | 	R. G. ABEL	 | 3 | arg331 |
 | | | | |
 | 32	 | 	R. A. ANDRES	 |  |  |
 | | | | |
