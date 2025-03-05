@@ -12,7 +12,7 @@
 | | | | |
 | 4	 | 	C. M. MARY-ANNE	 | Equipo 09 | ualmc312 |
 | | | | |
-| 5	 | 	D. A. PABLO	 |  |  |
+| 5	 | 	D. A. PABLO	 | Equipo 03  | https://github.com/ualpda629   |
 | | | | |
 | 6	 | 	D. V. OLIVER	 | 09 | UALodv717 |
 | | | | |
