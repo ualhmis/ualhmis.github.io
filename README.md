@@ -52,7 +52,7 @@
 | | | | |
 | 24	 | 	N. R. GIOVANNA YAMILE	 |  |  |
 | | | | |
-| 25	 | 	O. M. ANTONIO	 |  |  |
+| 25	 | 	O. M. ANTONIO	 | Equipo 01 | https://github.com/aom387ISO |
 | | | | |
 | 26	 | 	O. R. ALEJANDRO	 |  |  |
 | | | | |
