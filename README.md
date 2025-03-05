@@ -46,7 +46,7 @@
 | | | | |
 | 21	 | 	M. L. JULIAN	 |  |  |
 | | | | |
-| 22	 | 	M. I. JOSE	 |  |  |
+| 22	 | 	M. I. JOSE	 | 4 | ualjmi240 |
 | | | | |
 | 23	 | 	N. M. ANTONIO RAFAEL	 |  |  |
 | | | | |
