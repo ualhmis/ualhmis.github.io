@@ -8,7 +8,7 @@
 | | | | |
 | 2	 | 	C. R. ANTONIO	 |  |  |
 | | | | |
-| 3	 | 	C. C. DIEGO	 | 05 | dcc0230 |
+| 3	 | 	C. C. DIEGO	 | Equipo 05 | https://github.com/dcc0230 |
 | | | | |
 | 4	 | 	C. M. MARY-ANNE	 | Equipo 09 | ualmc312 |
 | | | | |
