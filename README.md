@@ -22,7 +22,7 @@
 | | | | |
 | 9	 | 	F. M. ISMAEL	 | 17  | ifm562-ual ó EngineerIsmaelFernandezMendez  |
 | | | | |
-| 10	 | 	F. R. JUAN JOSE	 |  |  |
+| 10	 | 	F. R. JUAN JOSE	 | Equipo 08 | ualjfr498 |
 | | | | |
 | 11	 | 	G. G. ANTONIO	 |  |  |
 | | | | |
@@ -32,7 +32,7 @@
 | | | | |
 | 14	 | 	G. M. JORGE	 | 10 | jgm847 |
 | | | | |
-| 15	 | 	G. P. DAVID	 |  |  |
+| 15	 | 	G. P. DAVID	 | Equipo 08 | dgp336 |
 | | | | |
 | 16	 | 	G. Q. ALEX	 |  |  |
 | | | | |
@@ -58,7 +58,7 @@
 | | | | |
 | 27	 | 	P. V. MANUEL	 |  |  |
 | | | | |
-| 28	 | 	P. F. FRANCO SERGIO	 |  |  |
+| 28	 | 	P. F. FRANCO SERGIO	 | Equipo 08 | ualfsp323 |
 | | | | |
 | 29	 | 	P. G. JOSE ESTEBAN	 | 12 | jpg486 |
 | | | | |
