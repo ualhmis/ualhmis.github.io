@@ -8,9 +8,9 @@
 | | | | |
 | 2	 | 	C. R. ANTONIO	 |  |  |
 | | | | |
-| 3	 | 	C. C. DIEGO	 |  |  |
+| 3	 | 	C. C. DIEGO	 | 05 | dcc0230 |
 | | | | |
-| 4	 | 	C. M. MARY-ANNE	 |  |  |
+| 4	 | 	C. M. MARY-ANNE	 | Equipo 09 | ualmc312 |
 | | | | |
 | 5	 | 	D. A. PABLO	 |  |  |
 | | | | |
@@ -38,7 +38,7 @@
 | | | | |
 | 17	 | 	M. G. ADRIAN	 |  |  |
 | | | | |
-| 18	 | 	M. G. RAUL	 |  |  |
+| 18	 | 	M. G. RAUL	 | Equipo 01 | https://github.com/ualrmg429 |
 | | | | |
 | 19	 | 	M. M. ADRIAN FIKRET	 |  |  |
 | | | | |
@@ -46,13 +46,13 @@
 | | | | |
 | 21	 | 	M. L. JULIAN	 |  |  |
 | | | | |
-| 22	 | 	M. I. JOSE	 |  |  |
+| 22	 | 	M. I. JOSE	 | 4 | ualjmi240 |
 | | | | |
-| 23	 | 	N. M. ANTONIO RAFAEL	 |  |  |
+| 23	 | 	N. M. ANTONIO RAFAEL	 | 10 | anm0200 |
 | | | | |
 | 24	 | 	N. R. GIOVANNA YAMILE	 |  |  |
 | | | | |
-| 25	 | 	O. M. ANTONIO	 |  |  |
+| 25	 | 	O. M. ANTONIO	 | Equipo 01 | https://github.com/aom387ISO |
 | | | | |
 | 26	 | 	O. R. ALEJANDRO	 |  |  |
 | | | | |
@@ -62,7 +62,7 @@
 | | | | |
 | 29	 | 	P. G. JOSE ESTEBAN	 |  |  |
 | | | | |
-| 30	 | 	Q. S. MANUEL	 |  |  |
+| 30	 | 	Q. S. MANUEL	 | 2 | ualmqs562 |
 | | | | |
 | 31	 | 	R. G. ABEL	 |  |  |
 | | | | |
@@ -70,7 +70,7 @@
 | | | | |
 | 33	 | 	S. H. JOSE ANTONIO	 |  |  |
 | | | | |
-| 34	 | 	S. B. FRANCISCO	 |  |  |
+| 34	 | 	S. B. FRANCISCO	 | 2 | ualfsb392 |
 | | | | |
 | 35	 | 	T. R. ANGEL	 |  |  |
 | | | | |
