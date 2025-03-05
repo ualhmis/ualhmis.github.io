@@ -36,7 +36,7 @@
 | | | | |
 | 16	 | 	G. Q. ALEX	 |  |  |
 | | | | |
-| 17	 | 	M. G. ADRIAN	 |  |  |
+| 17	 | 	M. G. ADRIAN	 | Equipo 07 | https://github.com/ualamg538 |
 | | | | |
 | 18	 | 	M. G. RAUL	 | Equipo 01 | https://github.com/ualrmg429 |
 | | | | |
