@@ -50,7 +50,7 @@
 | | | | |
 | 23	 | 	N. M. ANTONIO RAFAEL	 | 10 | anm0200 |
 | | | | |
-| 24	 | 	N. R. GIOVANNA YAMILE	 |  |  |
+| 24	 | 	N. R. GIOVANNA YAMILE	 | 4 | ualgnr267 |
 | | | | |
 | 25	 | 	O. M. ANTONIO	 | Equipo 01 | https://github.com/aom387ISO |
 | | | | |
