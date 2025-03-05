@@ -4,7 +4,7 @@
 
 | id | Nombre estudiante | Equipo | Usuario GitHub |
 |----|--------------------|--------|----------------| 
-| 1	 | 	A. F. ALEJANDRO	 |  |  |
+| 1	 | 	A. F. ALEJANDRO	 | 10 | aaf925 |
 | | | | |
 | 2	 | 	C. R. ANTONIO	 |  |  |
 | | | | |
