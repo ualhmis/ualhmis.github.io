@@ -6,7 +6,7 @@
 |----|--------------------|--------|----------------| 
 | 1	 | 	A. F. ALEJANDRO	 | 10 | aaf925 |
 | | | | |
-| 2	 | 	C. R. ANTONIO	 |  |  |
+| 2	 | 	C. R. ANTONIO	 | Equipo 05 | https://github.com/acr360 |
 | | | | |
 | 3	 | 	C. C. DIEGO	 | Equipo 05 | https://github.com/dcc0230 |
 | | | | |
