@@ -34,7 +34,7 @@
 | | | | |
 | 15	 | 	G. P. DAVID	 | Equipo 08 | dgp336 |
 | | | | |
-| 16	 | 	G. Q. ALEX	 |  |  |
+| 16	 | 	G. Q. ALEX	 | Equipo 14 | https://github.com/agq495  |
 | | | | |
 | 17	 | 	M. G. ADRIAN	 | Equipo 07 | https://github.com/ualamg538 |
 | | | | |
