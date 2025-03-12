@@ -54,7 +54,7 @@
 | | | | |
 | 25	 | 	O. M. ANTONIO	 | Equipo 01 | https://github.com/aom387ISO |
 | | | | |
-| 26	 | 	O. R. ALEJANDRO	 |  |  |
+| 26	 | 	O. R. ALEJANDRO	 | Equipo 14 | https://github.com/ualaor983 |
 | | | | |
 | 27	 | 	P. V. MANUEL	 |  |  |
 | | | | |
