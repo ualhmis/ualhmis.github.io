@@ -16,7 +16,7 @@
 | | | | |
 | 6	 | 	D. V. OLIVER	 | 09 | UALodv717 |
 | | | | |
-| 7	 | 	E. R. ABDELAZIZ	 |  |  |
+| 7	 | 	E. R. ABDELAZIZ	 | Equipo 05 | https://github.com/aer234 |
 | | | | |
 | 8	 | 	E. M. JUAN FRANCISCO	 |  |  |
 | | | | |
