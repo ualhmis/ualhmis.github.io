@@ -4,7 +4,7 @@
 
 | id | Nombre estudiante | Equipo | Usuario GitHub |
 |----|--------------------|--------|----------------| 
-| 1	 | 	A. R. VICTOR	 |  |  |
+| 1	 | 	A. R. VICTOR	 | 8 | ualvar500 |
 | | | | |
 | 2	 | 	A. G. SERGIO	 |  |  |
 | | | | |
