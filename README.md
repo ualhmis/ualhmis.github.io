@@ -18,7 +18,7 @@
 | | | | |
 | 7	 | 	C. G. JAVIER	 |  |  |
 | | | | |
-| 8	 | 	C. Q. CRISTOBAL	 |  |  |
+| 8	 | 	C. Q. CRISTOBAL	 | 8 | ualccq314 |
 | | | | |
 | 9	 | 	C. F. DAVID	 |  |  |
 | | | | |
