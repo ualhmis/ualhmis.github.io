@@ -34,7 +34,7 @@
 | | | | |
 | 15	 | 	G. A. LUIS	 |  |  |
 | | | | |
-| 16	 | 	G. L. JORGE	 |  |  |
+| 16	 | 	G. L. JORGE	 | 1 | https://github.com/Jgl968 |
 | | | | |
 | 17	 | 	G. M. JESUS DAVID	 |  |  |
 | | | | |
