@@ -38,7 +38,7 @@
 | | | | |
 | 17	 | 	G. M. JESUS DAVID	 |  |  |
 | | | | |
-| 18	 | 	G. R. VICTOR	 |  |  |
+| 18	 | 	G. R. VICTOR	 |Equpo 16  |vgr004-ual  |
 | | | | |
 | 19	 | 	H. K. SALMA	 |  |  |
 | | | | |
