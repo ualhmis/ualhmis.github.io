@@ -14,7 +14,7 @@
 | | | | |
 | 5	 | 	B. G. GABIJUS	 |  |  |
 | | | | |
-| 6	 | 	C. G. ANGEL	 |  |  |
+| 6	 | 	C. G. ANGEL	 | 1 | [ualacg019](https://github.com/ualacg019) |
 | | | | |
 | 7	 | 	C. G. JAVIER	 | Equipo 16 | JaviCampuzano |
 | | | | |
