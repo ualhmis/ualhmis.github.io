@@ -74,7 +74,7 @@
 | | | | |
 | 35	 | 	S. Z. MARIA CAMILA	 |  |  |
 | | | | |
-| 36	 | 	S. E. ANGEL	 |  |  |
+| 36	 | 	S. E. ANGEL	 | Equipo 2 | ualase444 |
 | | | | |
 | 37	 | 	U. A. DAVID	 |  |  |
 | | | | |
