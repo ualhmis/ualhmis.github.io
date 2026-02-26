@@ -16,7 +16,7 @@
 | | | | |
 | 6	 | 	C. G. ANGEL	 |  |  |
 | | | | |
-| 7	 | 	C. G. JAVIER	 |  |  |
+| 7	 | 	C. G. JAVIER	 | Equipo 16 | JaviCampuzano |
 | | | | |
 | 8	 | 	C. Q. CRISTOBAL	 | 8 | ualccq314 |
 | | | | |
