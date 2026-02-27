@@ -46,7 +46,7 @@
 | | | | |
 | 21	 | 	L. E. MARIA	 |  |  |
 | | | | |
-| 22	 | 	M. G. PABLO	 |  |  |
+| 22	 | 	M. G. PABLO	 | 20 | ualpmg943 |
 | | | | |
 | 23	 | 	M. L. JULIAN	 |  |  |
 | | | | |
