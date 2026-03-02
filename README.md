@@ -80,7 +80,7 @@
 | | | | |
 | 38	 | 	V. H. JUAN DE DIOS	 |  |  |
 | | | | |
-| 39	 | 	V. G. DIOGO	 |  |  |
+| 39	 | 	V. G. DIOGO	 | 18 | Ualdvg922 |
 | | | | |
 | 40	 | 	Z. J. TEO	 |  |  |
 | | | | |
