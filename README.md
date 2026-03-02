@@ -72,7 +72,7 @@
 | | | | |
 | 34	 | 	S. G. JAVIER	 |  |  |
 | | | | |
-| 35	 | 	S. Z. MARIA CAMILA	 |  |  |
+| 35	 | 	S. Z. MARIA CAMILA	 | 15 | msz016 |
 | | | | |
 | 36	 | 	S. E. ANGEL	 | Equipo 2 | ualase444 |
 | | | | |
