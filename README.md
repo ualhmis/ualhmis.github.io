@@ -56,7 +56,7 @@
 | | | | |
 | 26	 | 	M. C. EMILIO	 |  |  |
 | | | | |
-| 27	 | 	O. R. IVAN	 |  |  |
+| 27	 | 	O. R. IVAN	 | 3 | ImJincod |
 | | | | |
 | 28	 | 	P. S. CARMEN MARIA	 | 14 | ualcps071 |
 | | | | |
