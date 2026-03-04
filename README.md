@@ -22,7 +22,7 @@
 | | | | |
 | 9	 | 	C. F. DAVID	 | Equipo 2 | dcf313 |
 | | | | |
-| 10	 | 	D. V. MARTIN	 |  |  |
+| 10	 | 	D. V. MARTIN	 | 4 | ualmdm422 |
 | | | | |
 | 11	 | 	E. C. MARCOS	 |  |  |
 | | | | |
