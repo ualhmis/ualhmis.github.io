@@ -66,7 +66,7 @@
 | | | | |
 | 31	 | 	R. E. SERGIO ALEJANDRO	 | 9 | https://github.com/Sre803 |
 | | | | |
-| 32	 | 	R. P. ARTURO	 |  |  |
+| 32	 | 	R. P. ARTURO	 | 20 | ualarp724 |
 | | | | |
 | 33	 | 	R. H. VICTOR	 |  |  |
 | | | | |
