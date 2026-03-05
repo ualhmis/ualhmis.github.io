@@ -12,7 +12,7 @@
 | | | | |
 | 4	 | 	A. N. PEDRO JAVIER	 |  |  |
 | | | | |
-| 5	 | 	B. G. GABIJUS	 |  |  |
+| 5	 | 	B. G. GABIJUS	 | 10 | gbag0 |
 | | | | |
 | 6	 | 	C. G. ANGEL	 | 1 | [ualacg019](https://github.com/ualacg019) |
 | | | | |
