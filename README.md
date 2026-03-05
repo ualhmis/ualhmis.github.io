@@ -68,7 +68,7 @@
 | | | | |
 | 32	 | 	R. P. ARTURO	 |  |  |
 | | | | |
-| 33	 | 	R. H. VICTOR	 |  |  |
+| 33	 | 	R. H. VICTOR	 | 11 | ualvrh954 |
 | | | | |
 | 34	 | 	S. G. JAVIER	 |  |  |
 | | | | |
