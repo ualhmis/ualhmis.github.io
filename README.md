@@ -62,7 +62,7 @@
 | | | | |
 | 29	 | 	R. L. BRUNO	 |  |  |
 | | | | |
-| 30	 | 	R. S. JORGE	 |  |  |
+| 30	 | 	R. S. JORGE	 | 11 | ualjrs249 |
 | | | | |
 | 31	 | 	R. E. SERGIO ALEJANDRO	 | 9 | https://github.com/Sre803 |
 | | | | |
