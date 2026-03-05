@@ -64,7 +64,7 @@
 | | | | |
 | 30	 | 	R. S. JORGE	 |  |  |
 | | | | |
-| 31	 | 	R. E. SERGIO ALEJANDRO	 |  |  |
+| 31	 | 	R. E. SERGIO ALEJANDRO	 | 9 | https://github.com/Sre803 |
 | | | | |
 | 32	 | 	R. P. ARTURO	 |  |  |
 | | | | |
@@ -82,7 +82,7 @@
 | | | | |
 | 39	 | 	V. G. DIOGO	 | 18 | Ualdvg922 |
 | | | | |
-| 40	 | 	Z. J. TEO	 |  |  |
+| 40	 | 	Z. J. TEO	 | 9 | https://github.com/zzzaitegui |
 | | | | |
 Prof | C. M. J. Joaquin | ualhmis | http://github.com/ualjjcanada  |
 
