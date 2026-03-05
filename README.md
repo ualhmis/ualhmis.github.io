@@ -28,7 +28,7 @@
 | | | | |
 | 12	 | 	E. B. JUAN FRANCISCO	 | Equipo 16 | Juanfran514 |
 | | | | |
-| 13	 | 	E. P. IVAN	 |  |  |
+| 13	 | 	E. P. IVAN	 | 7 | ualiep080 |
 | | | | |
 | 14	 | 	E. M. JUAN FRANCISCO	 |  |  |
 | | | | |
