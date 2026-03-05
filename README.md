@@ -24,7 +24,7 @@
 | | | | |
 | 10	 | 	D. V. MARTIN	 | 4 | ualmdm422 |
 | | | | |
-| 11	 | 	E. C. MARCOS	 |  |  |
+| 11	 | 	E. C. MARCOS	 | 4 | ualmec700 |
 | | | | |
 | 12	 | 	E. B. JUAN FRANCISCO	 | Equipo 16 | Juanfran514 |
 | | | | |
