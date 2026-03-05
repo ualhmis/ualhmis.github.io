@@ -32,7 +32,7 @@
 | | | | |
 | 14	 | 	E. M. JUAN FRANCISCO	 |  |  |
 | | | | |
-| 15	 | 	G. A. LUIS	 |  |  |
+| 15	 | 	G. A. LUIS	 | Equipo 7 | uallga109 |
 | | | | |
 | 16	 | 	G. L. JORGE	 | 1 | https://github.com/Jgl968 |
 | | | | |
