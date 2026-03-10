@@ -60,7 +60,7 @@
 | | | | |
 | 28	 | 	P. S. CARMEN MARIA	 | 14 | ualcps071 |
 | | | | |
-| 29	 | 	R. L. BRUNO	 |  |  |
+| 29	 | 	R. L. BRUNO	 | 15 | ualbrl973 |
 | | | | |
 | 30	 | 	R. S. JORGE	 |  |  |
 | | | | |
