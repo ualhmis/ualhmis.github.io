@@ -8,7 +8,7 @@
 | | | | |
 | 2	 | 	A. G. SERGIO	 | 8 | ualsag854 |
 | | | | |
-| 3	 | 	A. A. DANIEL	 |  |  |
+| 3	 | 	A. A. DANIEL	 | 10 | ualdaa940 |
 | | | | |
 | 4	 | 	A. N. PEDRO JAVIER	 |  |  |
 | | | | |
