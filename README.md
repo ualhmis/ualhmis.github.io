@@ -84,6 +84,8 @@
 | | | | |
 | 40	 | 	Z. J. TEO	 | 9 | https://github.com/zzzaitegui |
 | | | | |
+| 41	 | 	E. M. JUAN FRANCISCO	 | 1 | ualjem852 |
+| | | | |
 Prof | C. M. J. Joaquin | ualhmis | http://github.com/ualjjcanada  |
 
 
