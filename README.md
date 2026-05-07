@@ -30,7 +30,7 @@
 | | | | |
 | 13	 | 	E. P. IVAN	 | 7 | ualiep080 |
 | | | | |
-| 14	 | 	E. M. JUAN FRANCISCO	 |  |  |
+| 14	 | 	E. M. JUAN FRANCISCO	 | 1 | ualjem852 |
 | | | | |
 | 15	 | 	G. A. LUIS	 | Equipo 7 | uallga109 |
 | | | | |
@@ -83,8 +83,6 @@
 | 39	 | 	V. G. DIOGO	 | 18 | Ualdvg922 |
 | | | | |
 | 40	 | 	Z. J. TEO	 | 9 | https://github.com/zzzaitegui |
-| | | | |
-| 41	 | 	E. M. JUAN FRANCISCO	 | 1 | ualjem852 |
 | | | | |
 Prof | C. M. J. Joaquin | ualhmis | http://github.com/ualjjcanada  |
 
