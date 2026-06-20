@@ -72,7 +72,7 @@
 | | | | |
 | 34	 | 	S. G. JAVIER	 | 3 | jsg415 --> (NO EXISTE!) | 
 | | | | |
-| 35	 | 	S. Z. MARIA CAMILA	 | 15 | msz016 |
+| 35	 | 	S. Z. MARIA CAMILA	 | 15 | msz016 --> (NO EXISTE!) |
 | | | | |
 | 36	 | 	S. E. ANGEL	 | Equipo 2 | ualase444 |
 | | | | |
